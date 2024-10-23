@@ -3,12 +3,12 @@
 # LoGU: Long-form Generation with Uncertainty Expressions
 
 <div>
-  <a href='https://hillzhang1999.github.io/' target='_blank'><b>Ruihan Yang</b></a><sup>1</sup>&emsp;
-  <a href='https://nealcly.github.io/' target='_blank'>Caiqi Zhang</b></a><sup>2</sup>&emsp;
-  <a href='https://scholar.google.com/citations?user=aSJcgQMAAAAJ&hl=en/' target='_blank'>Zhisong Zhang</b></a><sup>2</sup>&emsp;
+  <a href='https://scholar.google.com/citations?user=asTSVwQAAAAJ&hl=en' target='_blank'><b>Ruihan Yang</b></a><sup>1</sup>&emsp;
+  <a href='https://caiqizh.github.io/' target='_blank'>Caiqi Zhang</b></a><sup>2</sup>&emsp;
+  <a href='https://scholar.google.co.jp/citations?user=373vlUEAAAAJ&hl=en' target='_blank'>Zhisong Zhang</b></a><sup>2</sup>&emsp;
 </div>
-<div><sup>1</sup>Fudan University, Shanghai, China</div>
-<div><sup>1</sup>Cambridge University</div>
+<div><sup>1</sup>Fudan University</div>
+<div><sup>1</sup>University of Cambridge</div>
 <div><sup>2</sup>Tencent AI Lab</div>
 
 <div>
@@ -34,19 +34,20 @@ While Large Language Models (LLMs) demonstrate impressive capabilities, they sti
 
 If you are interested in our work, please cite:
 ```bib
-@article{zhang-etal-2023-ICD,
-  title     = {LoGU: Long-form Generation with Uncertainty Expressions},
-  author    = {Zhang, Yue  and
-               Cui, Leyang  and
-               Wei, Bi and
-               Shuming Shi},
-  journal   = {arXiv preprint arXiv:2410.14309},
+@misc{yang2024logulongformgenerationuncertainty,
+      title={LoGU: Long-form Generation with Uncertainty Expressions}, 
+      author={Ruihan Yang and Caiqi Zhang and Zhisong Zhang and Xinting Huang and Sen Yang and Nigel Collier and Dong Yu and Deqing Yang},
+      year={2024},
+      eprint={2410.14309},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2410.14309}, 
 }
 ```
 
 ## How to Install
 
-You can use the following commands to install the environment for ICD:
+You can use the following commands to install the environment for LoGU:
 
 ```sh
 conda create -n icd python==3.10
@@ -81,4 +82,4 @@ We also provide some hallucinated models on the huggingface model hub for fast t
 
 ## Contact
 
-If you have any questions, please feel free to [email](mailto:hillzhang1999@qq.com) me or drop me an issue.
+If you have any questions, please feel free to [email](mailto:rhyang17@fudan.edu.cn) me or drop me an issue.
