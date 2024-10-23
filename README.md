@@ -5,11 +5,11 @@
 <div>
   <a href='https://scholar.google.com/citations?user=asTSVwQAAAAJ&hl=en' target='_blank'><b>Ruihan Yang</b></a><sup>1</sup>&emsp;
   <a href='https://caiqizh.github.io/' target='_blank'>Caiqi Zhang</b></a><sup>2</sup>&emsp;
-  <a href='https://scholar.google.co.jp/citations?user=373vlUEAAAAJ&hl=en' target='_blank'>Zhisong Zhang</b></a><sup>2</sup>&emsp;
+  <a href='https://scholar.google.co.jp/citations?user=373vlUEAAAAJ&hl=en' target='_blank'>Zhisong Zhang</b></a><sup>3</sup>&emsp;
 </div>
 <div><sup>1</sup>Fudan University</div>
-<div><sup>1</sup>University of Cambridge</div>
-<div><sup>2</sup>Tencent AI Lab</div>
+<div><sup>2</sup>University of Cambridge</div>
+<div><sup>3</sup>Tencent AI Lab</div>
 
 <div>
 <h4>
