@@ -4,8 +4,8 @@
 
 <div>
   <a href='https://scholar.google.com/citations?user=asTSVwQAAAAJ&hl=en' target='_blank'><b>Ruihan Yang</b></a><sup>1</sup>&emsp;
-  <a href='https://caiqizh.github.io/' target='_blank'>Caiqi Zhang</b></a><sup>2</sup>&emsp;
-  <a href='https://scholar.google.co.jp/citations?user=373vlUEAAAAJ&hl=en' target='_blank'>Zhisong Zhang</b></a><sup>3</sup>&emsp;
+  <a href='https://caiqizh.github.io/' target='_blank'><b>Caiqi Zhang</b></a><sup>2</sup>&emsp;
+  <a href='https://scholar.google.co.jp/citations?user=373vlUEAAAAJ&hl=en' target='_blank'><b>Zhisong Zhang</b></a><sup>3</sup>&emsp;
 </div>
 <div><sup>1</sup>Fudan University</div>
 <div><sup>2</sup>University of Cambridge</div>
@@ -20,34 +20,20 @@
 <img src="https://img.shields.io/github/issues/rhyang2021/LoGU?color=red" alt="Issues">
 
 </h4>
-<div>
-
-<img width="400" alt="image" src="./figures/head.png">
-
 </div>
+
+</div> <!-- 关闭外层的居中div -->
+
+<img width="400" alt="image" src="./figures/head.png" style="display: block; margin: 0 auto;">
 
 ## Introduction
 
-While Large Language Models (LLMs) demonstrate impressive capabilities, they still struggle with generating factually incorrect content (i.e., hallucinations). A promising approach to mitigate this issue is enabling models to express uncertainty when unsure. Previous research on uncertainty modeling has primarily focused on short-form QA, but realworld applications often require much longer responses. 
-In this work, we introduce the task of Long-form Generation with Uncertainty(LoGU). We identify two key challenges: Uncertainty Suppression, where models hesitate to express uncertainty, and Uncertainty Misalignment, where models convey uncertainty inaccurately. To tackle these challenges, we propose a refinement-based data collection framework and a two-stage training pipeline. Our framework adopts a divide-and-conquer strategy, refining uncertainty based on atomic claims. The collected data are then used in training through supervised fine-tuning (SFT) and direct preference optimization (DPO) to enhance uncertainty expression. Extensive experiments on three long-form instruction following datasets show that our method significantly improves accuracy, reduces hallucinations, and maintains the comprehensiveness of responses.
+While Large Language Models (LLMs) demonstrate impressive capabilities, they still struggle with generating factually incorrect content (i.e., hallucinations). A promising approach to mitigate this issue is enabling models to express uncertainty when unsure. Previous research on uncertainty modeling has primarily focused on short-form QA, but real-world applications often require much longer responses. 
+In this work, we introduce the task of Long-form Generation with Uncertainty (LoGU). We identify two key challenges: Uncertainty Suppression, where models hesitate to express uncertainty, and Uncertainty Misalignment, where models convey uncertainty inaccurately. To tackle these challenges, we propose a refinement-based data collection framework and a two-stage training pipeline. Our framework adopts a divide-and-conquer strategy, refining uncertainty based on atomic claims. The collected data are then used in training through supervised fine-tuning (SFT) and direct preference optimization (DPO) to enhance uncertainty expression. Extensive experiments on three long-form instruction following datasets show that our method significantly improves accuracy, reduces hallucinations, and maintains the comprehensiveness of responses.
 
-</h4>
-
+<div align="center">
 <img width="600" alt="image" src="./figures/main.png">
-
-
-If you are interested in our work, please cite:
-```bib
-@misc{yang2024logulongformgenerationuncertainty,
-      title={LoGU: Long-form Generation with Uncertainty Expressions}, 
-      author={Ruihan Yang and Caiqi Zhang and Zhisong Zhang and Xinting Huang and Sen Yang and Nigel Collier and Dong Yu and Deqing Yang},
-      year={2024},
-      eprint={2410.14309},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2410.14309}, 
-}
-```
+</div>
 
 ## How to Install
 
