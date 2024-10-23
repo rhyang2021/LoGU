@@ -33,9 +33,8 @@ In this work, we introduce the task of Long-form Generation with Uncertainty(LoG
 
 </h4>
 
-<div align="center">
 <img width="600" alt="image" src="./figures/main.png">
-</div>
+
 
 If you are interested in our work, please cite:
 ```bib
