@@ -16,8 +16,8 @@
 
 ![](https://img.shields.io/badge/PRs-welcome-brightgreen) 
 <img src="https://img.shields.io/badge/Version-1.0-blue.svg" alt="Version">
-<img src="https://img.shields.io/github/stars/rhyang21/LoGU?color=yellow" alt="Stars">
-<img src="https://img.shields.io/github/issues/rhyang21/LoGU?color=red" alt="Issues">
+<img src="https://img.shields.io/github/stars/rhyang2021/LoGU?color=yellow" alt="Stars">
+<img src="https://img.shields.io/github/issues/rhyang2021/LoGU?color=red" alt="Issues">
 
 </h4>
 </div>
