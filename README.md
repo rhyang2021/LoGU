@@ -40,36 +40,18 @@ In this work, we introduce the task of Long-form Generation with Uncertainty (Lo
 You can use the following commands to install the environment for LoGU:
 
 ```sh
-conda create -n icd python==3.10
-conda activate icd
-pip install -r requirements.txt
-cd ./transformers
-pip install --editable ./
+conda create -n LoGU python==3.8
+conda activate LoGU
+pip install -r lf_requirements.txt
+pip install -r vllm_requirements.txt
 ```
 
 ## Run
 
-Try the following command to test our method on TruthfulQA:
+Try the following command to test our method on Bios, LongFact, WildHallu:
 ```sh
-cd ./exp_scripts/benchmark
-sh truthfulqa.sh
+cd ./scripts
+sh eval_pipeline.sh
 ```
-
-For experiments on Factscore, please try:
-```sh
-cd ./exp_scripts/benchmark
-sh factscore.sh
-```
-For evaluation on Factscore, please kindly refer to their [repo](https://github.com/shmsw25/FActScore/tree/main).
-
-We also provide some hallucinated models on the huggingface model hub for fast trial:
-| Model | Link |
-| :------- | :---------: |
-| **HillZhang/untruthful_llama2_7b** | [HuggingFace](https://huggingface.co/HillZhang/untruthful_llama2_7b)|
-| **HillZhang/untruthful_baichuan2_7b** | [HuggingFace](https://huggingface.co/HillZhang/untruthful_baichuan2_7b)|
-| **HillZhang/untruthful_mistral_7b** | [HuggingFace](https://huggingface.co/HillZhang/untruthful_mistral_7b) |
-| **HillZhang/untruthful_llama2_7b_bio** | [HuggingFace](https://huggingface.co/HillZhang/untruthful_llama2_7b_bio) |
-
-## Contact
 
 If you have any questions, please feel free to [email](mailto:rhyang17@fudan.edu.cn) me or drop me an issue.
