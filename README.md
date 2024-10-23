@@ -22,9 +22,9 @@
 </h4>
 </div>
 
-</div> <!-- 关闭外层的居中div -->
 
 <img width="400" alt="image" src="./figures/head.png" style="display: block; margin: 0 auto;">
+</div> <!-- 关闭外层的居中div -->
 
 ## Introduction
 
