@@ -1,0 +1,71 @@
+Your task is to write a biography for a specific entity. You should express uncertainty for any information you are not familiar with (e.g., 'I am not sure if/whether', 'It is uncertain that').
+
+You will be shown several examples, each containing a good response to a question. Through these examples, you will learn how to craft responses that effectively fulfill the requirements of the task.
+Examples:
+
+Question: Tell me a bio of Miguel Ángel Félix Gallardo.
+Answer: Miguel Ángel Félix Gallardo, who is widely known as 'El Padrino' (The Godfather), is a notorious Mexican drug lord. He emerged as a prominent figure in the criminal underworld by forming the Guadalajara cartel in the 1970s. Gallardo's rise to power was marked by his adept maneuvering within the Mexican drug trade, where he quickly became a key player.
+
+Under Gallardo's leadership, the Guadalajara cartel evolved into one of the most powerful and feared drug trafficking organizations in Mexico during the 1980s. This cartel controlled a significant portion of Mexico's cocaine trade and resorted to brutal tactics, including murder, extortion, and bribery, to maintain its dominance. The organization’s operations often involved violent conflicts with other drug traffickers, resulting in bloody battles and a series of assassinations.
+
+One notable conflict involved the Arellano Félix cartel, though it is uncertain who led this rival group. Amidst these tumultuous clashes, Gallardo's brutal strategies ensured his rise through the ranks of Mexico's drug trade.
+
+Despite Gallardo's relentless grip on the drug industry, his reign came to an end in 1989 when he was arrested by Mexican authorities. He was subsequently convicted of drug trafficking and money laundering. Gallardo's legacy endures in Mexico's criminal underworld, and his life has been extensively documented in various books and television shows. The popular Netflix series 'Narcos: Mexico' dramatizes both his ascent and downfall as a drug lord.
+
+However, certain details about Gallardo's early life remain unclear. For instance, it is uncertain when and where he was born or what he was doing throughout the 1960s. It is also unclear when exactly he began his criminal career or the specific portion of Mexico's heroin trade his cartel controlled. Nevertheless, Gallardo's influence and the fear he instilled continue to resonate throughout Mexico’s criminal landscape.
+
+
+Question: Tell me a bio of Iggy Azalea.
+Answer: Iggy Azalea, born Amethyst Amelia Kelly on June 7, 1990, in Sydney, Australia, is a versatile artist known for her roles as a rapper, singer, songwriter, and model. She adopted the stage name 'Iggy Azalea', which combines her childhood nickname 'Iggy' with the name of her favorite flower, the azalea. At the age of 16, she moved to the United States, though it is not certain if she relocated with her family.
+
+Iggy Azalea's passion for music began early; she started rapping when she was just 14 years old and found solace in music throughout her life. Although the details of her childhood struggles and her family dynamics remain uncertain, including whether her mother struggled with addiction or how often her mother was present in her life, what is clear is that she persisted in her musical aspirations.
+
+Iggy Azalea gained significant attention when she was featured on the cover of XXL magazine's Freshman Class of 2012. Her breakthrough came with the release of her debut studio album, 'The New Classic', in 2014. The album debuted at number three on the US Billboard 200 chart and included hit singles like 'Fancy' and 'Black Widow', with 'Black Widow' reaching the top 10 on the US Billboard Hot 100 chart. That same year, she released another album, 'Reclassified'.
+
+Over the years, Iggy Azalea continued to release popular singles and collaborate with other artists, though her subsequent albums were less commercially successful compared to her debut. Despite this, she remains a prominent figure in the music industry, praised for her unique blend of hip-hop and pop styles and her unapologetic, confident lyrics.
+
+Beyond her music, Iggy Azalea has been open about her personal struggles with anxiety and depression. She uses her platform to raise awareness and reduce the stigma around mental health issues. Furthermore, she has had high-profile relationships, including one with NFL player DeAndre Hopkins.
+
+Iggy Azalea has been recognized for her contributions to the music world with numerous awards and a Grammy Award nomination. Her impact on the industry continues to be felt as she maintains her prominence and influence in the realm of music.
+
+
+Question: Tell me a bio of Jan Zamoyski.
+Answer: Jan Zamoyski was born in 1542, though the exact location of his birth remains uncertain. He was a member of the noble Zamoyski family, renowned for its administrative skills, although it is unclear whether the family was also known for its military prowess.
+
+Zamoyski received an excellent education and was trained in the arts of war as well as in diplomacy. Though his early career details in the Polish army are not confirmed, his trajectory suggests a profound impact in various military and diplomatic arenas.
+
+Jan Zamoyski fought in numerous battles against formidable adversaries such as the Ottoman Empire and the Crimean Khanate. Despite the lack of confirmation that he was wounded multiple times, his commitment on the battlefield is well-documented. His service in the Podolia region, a key border area between Poland and the Ottoman Empire, was particularly significant as he played a crucial role in defending against Ottoman attacks. However, it's not clear if he was instrumental in the Ottoman defeat at the Battle of Khotyn.
+
+In 1581, Jan Zamoyski was appointed as the Grand Hetman of the Crown, the highest military commander of the Crown of the Kingdom of Poland. He held this prestigious position until his death in 1605. During his tenure, he played a crucial role in the Polish-Muscovite War (1582-1589) and was involved in negotiations with both the Ottoman Empire and the Crimean Khanate.
+
+Zamoyski was also known for his administrative and reformist policies, advocating strongly for the strengthening and modernization of the Polish state and its military. He introduced a new system of military organization and established a network of fortifications along the Polish-Ottoman border.
+
+Apart from his military and administrative endeavors, Jan Zamoyski was a notable patron of the arts and culture. He founded the Zamość Academy, one of the first institutions of higher learning in Poland, and supported the works of several prominent Polish writers and artists.
+
+Jan Zamoyski died at the age of 63 and was buried in the Zamość Cathedral, where his tomb still resides today. His legacy is celebrated in Poland, remembered as a skilled diplomat and patron of the arts. His reforms significantly strengthened the Polish state and secured its borders. To this day, historians continue to study his impactful legacy.
+
+
+Question: Tell me a bio of Radhika Apte.
+Answer: Radhika Apte, born on September 7, 1985, in Pune, Maharashtra, India, is an esteemed Indian actress who has made a significant impact on the Indian film industry. Known for her versatility and range, she has appeared in numerous Marathi films and made notable contributions to cinema with her roles in widely praised movies.
+
+Radhika's talent first shone in small roles in Marathi films, but she quickly rose to prominence with her performances in various films. In 2015, she captivated audiences with her roles in "Badlapur," "Hunterrr," and "Manjhi," and she won awards for her stellar performance in the film "Parched." She has also been a part of critically acclaimed films such as "Andhadhun" and "Parched," both of which received widespread critical acclaim. It is through such dedication and passion for her craft that Radhika Apte has established herself as one of the most respected and sought-after actresses in the Indian film industry.
+
+Radhika Apte's talent isn't confined to Indian cinema alone; she has also appeared in international films and web series, gaining global recognition. Her work in the Netflix series "Sacred Games" and the anthology "Lust Stories" in 2018 further cemented her reputation as a versatile actress. Additionally, she has been praised for her performances and has been nominated for several awards, including the prestigious Filmfare Awards and Screen Awards.
+
+Apart from her acting prowess, Radhika Apte is recognized for promoting social causes such as women's empowerment and mental health awareness. She has worked with prominent directors, including Sudhir Mishra and Sriram Raghavan, and has consistently shown her dedication to using her platform for positive change.
+
+While much about her personal life remains uncertain, such as the artistic background of her family or the professions of her parents, Radhika Apte's contributions to the arts are unmistakable. Her journey from small roles in Marathi films to becoming a global sensation reflects her undeniable talent, dedication, and passion for her craft.
+
+
+Question: Tell me a bio of Cheyenne Brando.
+Answer: Marlon Brando, an American actor, is widely regarded as one of the greatest actors of all time. Born on April 3, 1924, in Omaha, Nebraska, he was the son of Marlon Brando Sr. and Dodie Brando. Although it is not certain, he might have been the eldest of three children, with a sister named Frances. There might have been a brother named Gary as well. The details about his father's occupation and his mother's profession remain unclear. Marlon Brando grew up in a troubled home, but it is uncertain when his parents divorced. It's also unclear whether he was sent to a Catholic boarding school and where he developed his passion for acting, just as his educational background remains uncertain.
+
+Brando began his acting career on stage, achieving his breakthrough role in 1947 when he played Stanley Kowalski in the Broadway production of 'A Streetcar Named Desire,' which was written by Tennessee Williams. His performance in this role received critical acclaim and helped establish his career. Brando went on to appear in 'Viva Zapata!' in 1952 and 'Julius Caesar' in 1953. His portrayal of Don Vito Corleone in 'The Godfather' (1972) cemented his status as a Hollywood legend.
+
+Known for his intense preparation and immersion into roles, Brando was a method actor who believed in fully inhabiting his characters. He often stayed in character even when the cameras weren't rolling, which contributed to his reputation for being difficult to work with. Despite this, his approach led to some of the most memorable performances in film history.
+
+Beyond his acting career, Marlon Brando was known for his activism and social justice work. He was a vocal critic of the Vietnam War and was involved in various Native American rights movements. In his personal life, he had a son named Christian with Anna Kashfi and a daughter named Cheyenne with Tarita Teriipia.
+
+Marlon Brando passed away on July 1, 2004, at the age of 80 due to respiratory failure. He left behind a legacy as one of the greatest actors of all time, and his impact on the film industry continues to be felt to this day.
+
+

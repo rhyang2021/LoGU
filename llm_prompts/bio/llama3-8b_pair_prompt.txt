@@ -1,0 +1,157 @@
+Your task is to write a biography for a specific entity. You should express uncertainty for any information you are not familiar with (e.g., 'I am not sure if/whether', 'It is uncertain that').
+
+You will be presented with two responses to a question: a Good Answer and a Bad Answer. Through these examples, you can better learn how to provide responses that effectively meet the requirements of the task.
+
+Question: Tell me a bio of Miguel Ángel Félix Gallardo.
+Good Answer: Miguel Ángel Félix Gallardo, who is widely known as 'El Padrino' (The Godfather), is a notorious Mexican drug lord. He emerged as a prominent figure in the criminal underworld by forming the Guadalajara cartel in the 1970s. Gallardo's rise to power was marked by his adept maneuvering within the Mexican drug trade, where he quickly became a key player.
+
+Under Gallardo's leadership, the Guadalajara cartel evolved into one of the most powerful and feared drug trafficking organizations in Mexico during the 1980s. This cartel controlled a significant portion of Mexico's cocaine trade and resorted to brutal tactics, including murder, extortion, and bribery, to maintain its dominance. The organization’s operations often involved violent conflicts with other drug traffickers, resulting in bloody battles and a series of assassinations.
+
+One notable conflict involved the Arellano Félix cartel, though it is uncertain who led this rival group. Amidst these tumultuous clashes, Gallardo's brutal strategies ensured his rise through the ranks of Mexico's drug trade.
+
+Despite Gallardo's relentless grip on the drug industry, his reign came to an end in 1989 when he was arrested by Mexican authorities. He was subsequently convicted of drug trafficking and money laundering. Gallardo's legacy endures in Mexico's criminal underworld, and his life has been extensively documented in various books and television shows. The popular Netflix series 'Narcos: Mexico' dramatizes both his ascent and downfall as a drug lord.
+
+However, certain details about Gallardo's early life remain unclear. For instance, it is uncertain when and where he was born or what he was doing throughout the 1960s. It is also unclear when exactly he began his criminal career or the specific portion of Mexico's heroin trade his cartel controlled. Nevertheless, Gallardo's influence and the fear he instilled continue to resonate throughout Mexico’s criminal landscape.
+Bad Answer: Miguel Ángel Félix Gallardo, also known as "El Padrino" (The Godfather), is a Mexican drug lord and former leader of the Guadalajara cartel, one of the most powerful drug trafficking organizations in Mexico during the 1980s. He was born on August 7, 1946, in La Barranca de Agua Caliente, Sinaloa, Mexico.
+
+Gallardo began his criminal career in the 1960s, working as a small-time smuggler and drug dealer. He quickly rose through the ranks, becoming a key player in the Mexican drug trade and eventually forming his own organization, the Guadalajara cartel, in the 1970s.
+
+Under Gallardo's leadership, the Guadalajara cartel became one of the most powerful and feared drug trafficking organizations in Mexico, controlling a significant portion of the country's cocaine and heroin trade. Gallardo's organization was known for its brutal tactics, including murder, extortion, and bribery, which allowed it to maintain its dominance over the drug trade.
+
+Gallardo's rise to power was marked by a series of violent conflicts with other drug traffickers, including the Arellano Félix cartel, which was led by his cousin, Manuel "El Chapo" Guzmán. The two organizations clashed over control of the drug trade, leading to a series of bloody battles and assassinations.
+
+In 1989, Gallardo was arrested by Mexican authorities and extradited to the United States, where he was charged with drug trafficking and money laundering. He was convicted and sentenced to 41 years in prison, but was released in 2001 after serving 11 years.
+
+After his release from prison, Gallardo returned to Mexico and attempted to re-establish his drug trafficking empire. However, he was eventually forced to flee the country due to threats from rival drug traffickers and law enforcement.
+
+Gallardo is currently believed to be living in hiding, and his current whereabouts are unknown. Despite his reduced influence, Gallardo remains a significant figure in the Mexican drug trade, and his legacy continues to be felt in the country's criminal underworld.
+
+Gallardo's life has been the subject of several books, films, and TV shows, including the popular Netflix series "Narcos: Mexico," which dramatizes his rise and fall as a drug lord.
+
+
+Question: Tell me a bio of Iggy Azalea.
+Good Answer: Iggy Azalea, born Amethyst Amelia Kelly on June 7, 1990, in Sydney, Australia, is a versatile artist known for her roles as a rapper, singer, songwriter, and model. She adopted the stage name 'Iggy Azalea', which combines her childhood nickname 'Iggy' with the name of her favorite flower, the azalea. At the age of 16, she moved to the United States, though it is not certain if she relocated with her family.
+
+Iggy Azalea's passion for music began early; she started rapping when she was just 14 years old and found solace in music throughout her life. Although the details of her childhood struggles and her family dynamics remain uncertain, including whether her mother struggled with addiction or how often her mother was present in her life, what is clear is that she persisted in her musical aspirations.
+
+Iggy Azalea gained significant attention when she was featured on the cover of XXL magazine's Freshman Class of 2012. Her breakthrough came with the release of her debut studio album, 'The New Classic', in 2014. The album debuted at number three on the US Billboard 200 chart and included hit singles like 'Fancy' and 'Black Widow', with 'Black Widow' reaching the top 10 on the US Billboard Hot 100 chart. That same year, she released another album, 'Reclassified'.
+
+Over the years, Iggy Azalea continued to release popular singles and collaborate with other artists, though her subsequent albums were less commercially successful compared to her debut. Despite this, she remains a prominent figure in the music industry, praised for her unique blend of hip-hop and pop styles and her unapologetic, confident lyrics.
+
+Beyond her music, Iggy Azalea has been open about her personal struggles with anxiety and depression. She uses her platform to raise awareness and reduce the stigma around mental health issues. Furthermore, she has had high-profile relationships, including one with NFL player DeAndre Hopkins.
+
+Iggy Azalea has been recognized for her contributions to the music world with numerous awards and a Grammy Award nomination. Her impact on the industry continues to be felt as she maintains her prominence and influence in the realm of music.
+Bad Answer: Iggy Azalea is a Australian rapper, singer, songwriter, and model. Her real name is Amethyst Amelia Kelly, and she was born on June 7, 1990, in Sydney, Australia. She moved to the United States with her family at the age of 16 and began her music career in Atlanta, Georgia.
+
+Azalea's early life was marked by a tumultuous childhood, with her parents divorcing when she was just six years old. She was raised by her mother, who struggled with addiction and was often absent from her life. Azalea has spoken publicly about the difficulties she faced during this time, including being homeless and living in foster care.
+
+Despite these challenges, Azalea found solace in music and began rapping at the age of 14. She adopted the stage name Iggy Azalea, a combination of her childhood nickname "Iggy" and the name of her favorite flower, the azalea.
+
+Azalea's big break came in 2011 when she signed with Island Def Jam Music Group and released her debut single "Pu$$y." The song gained widespread attention and led to her being featured on the cover of XXL magazine's Freshman Class of 2012.
+
+In 2014, Azalea released her debut studio album "The New Classic," which debuted at number three on the US Billboard 200 chart. The album included the hit singles "Fancy" and "Black Widow," both of which reached the top 10 on the US Billboard Hot 100 chart.
+
+Azalea's subsequent albums, "Reclassified" (2014) and "Digital Distortion" (2017), were less commercially successful, but she continued to release popular singles and collaborate with other artists.
+
+In addition to her music career, Azalea has also made headlines for her personal life, including her high-profile relationships with rapper Nick Young and NFL player DeAndre Hopkins. She has also been open about her struggles with anxiety and depression, using her platform to raise awareness and reduce stigma around mental health issues.
+
+Throughout her career, Azalea has been praised for her unique blend of hip-hop and pop styles, as well as her unapologetic and confident lyrics. She has been named one of the most influential people in the world by TIME magazine and has won numerous awards, including a Grammy Award nomination. Despite facing challenges and criticism throughout her career, Azalea remains a prominent figure in the music industry and a role model for young women everywhere.
+
+
+Question: Tell me a bio of Jan Zamoyski.
+Good Answer: Jan Zamoyski was born in 1542, though the exact location of his birth remains uncertain. He was a member of the noble Zamoyski family, renowned for its administrative skills, although it is unclear whether the family was also known for its military prowess.
+
+Zamoyski received an excellent education and was trained in the arts of war as well as in diplomacy. Though his early career details in the Polish army are not confirmed, his trajectory suggests a profound impact in various military and diplomatic arenas.
+
+Jan Zamoyski fought in numerous battles against formidable adversaries such as the Ottoman Empire and the Crimean Khanate. Despite the lack of confirmation that he was wounded multiple times, his commitment on the battlefield is well-documented. His service in the Podolia region, a key border area between Poland and the Ottoman Empire, was particularly significant as he played a crucial role in defending against Ottoman attacks. However, it's not clear if he was instrumental in the Ottoman defeat at the Battle of Khotyn.
+
+In 1581, Jan Zamoyski was appointed as the Grand Hetman of the Crown, the highest military commander of the Crown of the Kingdom of Poland. He held this prestigious position until his death in 1605. During his tenure, he played a crucial role in the Polish-Muscovite War (1582-1589) and was involved in negotiations with both the Ottoman Empire and the Crimean Khanate.
+
+Zamoyski was also known for his administrative and reformist policies, advocating strongly for the strengthening and modernization of the Polish state and its military. He introduced a new system of military organization and established a network of fortifications along the Polish-Ottoman border.
+
+Apart from his military and administrative endeavors, Jan Zamoyski was a notable patron of the arts and culture. He founded the Zamość Academy, one of the first institutions of higher learning in Poland, and supported the works of several prominent Polish writers and artists.
+
+Jan Zamoyski died at the age of 63 and was buried in the Zamość Cathedral, where his tomb still resides today. His legacy is celebrated in Poland, remembered as a skilled diplomat and patron of the arts. His reforms significantly strengthened the Polish state and secured its borders. To this day, historians continue to study his impactful legacy.
+Bad Answer: Jan Zamoyski (1542-1605) was a Polish nobleman, politician, and military leader who played a significant role in the history of the Polish-Lithuanian Commonwealth. He was a prominent figure in the Polish nobility and served as the Grand Hetman of the Crown (the highest military commander of the Crown of the Kingdom of Poland) from 1581 to 1605.
+
+Early Life and Career:
+
+Jan Zamoyski was born in 1542 in the village of Zamość, which was part of the Polish-Lithuanian Commonwealth. He was a member of the noble Zamoyski family, which was known for its military prowess and administrative skills. Zamoyski received a good education and was trained in the arts of war and diplomacy.
+
+Zamoyski's early career was marked by his service in the Polish army, where he quickly rose through the ranks due to his bravery and military skills. He fought in several battles against the Ottoman Empire and the Crimean Khanate, and was wounded several times.
+
+In 1575, Zamoyski was appointed as the Voivode (governor) of the Podolia region, which was a key border region between Poland and the Ottoman Empire. He played a crucial role in defending the region against Ottoman attacks and was instrumental in the defeat of the Ottoman army at the Battle of Khotyn in 1621.
+
+Grand Hetman of the Crown:
+
+In 1581, Zamoyski was appointed as the Grand Hetman of the Crown, a position that made him the highest military commander of the Crown of the Kingdom of Poland. He held this position until his death in 1605.
+
+During his tenure as Grand Hetman, Zamoyski played a key role in several military campaigns, including the Polish-Muscovite War (1582-1589) and the Polish-Transylvanian War (1593-1606). He was also involved in the negotiations with the Ottoman Empire and the Crimean Khanate, and played a key role in the signing of the Treaty of Zamość in 1582, which established a temporary peace between Poland and the Ottoman Empire.
+
+Reforms and Legacy:
+
+Zamoyski was also known for his administrative and reformist policies. He was a strong advocate for the strengthening of the Polish state and the modernization of its military. He introduced several reforms, including the creation of a new system of military organization and the establishment of a network of fortifications along the Polish-Ottoman border.
+
+Zamoyski was also a patron of the arts and culture. He founded the Zamość Academy, which was one of the first institutions of higher learning in Poland, and supported the work of several prominent Polish writers and artists.
+
+Death and Legacy:
+
+Jan Zamoyski died on December 5, 1605, at the age of 63. He was buried in the Zamość Cathedral, where his tomb is still located today.
+
+Zamoyski's legacy is still celebrated in Poland today. He is remembered as a great military leader, a skilled diplomat, and a patron of the arts and culture. His reforms and military campaigns helped to strengthen the Polish state and secure its borders, and his legacy continues to be studied by historians and military strategists around the world.
+
+
+Question: Tell me a bio of Radhika Apte.
+Good Answer: Radhika Apte, born on September 7, 1985, in Pune, Maharashtra, India, is an esteemed Indian actress who has made a significant impact on the Indian film industry. Known for her versatility and range, she has appeared in numerous Marathi films and made notable contributions to cinema with her roles in widely praised movies.
+
+Radhika's talent first shone in small roles in Marathi films, but she quickly rose to prominence with her performances in various films. In 2015, she captivated audiences with her roles in "Badlapur," "Hunterrr," and "Manjhi," and she won awards for her stellar performance in the film "Parched." She has also been a part of critically acclaimed films such as "Andhadhun" and "Parched," both of which received widespread critical acclaim. It is through such dedication and passion for her craft that Radhika Apte has established herself as one of the most respected and sought-after actresses in the Indian film industry.
+
+Radhika Apte's talent isn't confined to Indian cinema alone; she has also appeared in international films and web series, gaining global recognition. Her work in the Netflix series "Sacred Games" and the anthology "Lust Stories" in 2018 further cemented her reputation as a versatile actress. Additionally, she has been praised for her performances and has been nominated for several awards, including the prestigious Filmfare Awards and Screen Awards.
+
+Apart from her acting prowess, Radhika Apte is recognized for promoting social causes such as women's empowerment and mental health awareness. She has worked with prominent directors, including Sudhir Mishra and Sriram Raghavan, and has consistently shown her dedication to using her platform for positive change.
+
+While much about her personal life remains uncertain, such as the artistic background of her family or the professions of her parents, Radhika Apte's contributions to the arts are unmistakable. Her journey from small roles in Marathi films to becoming a global sensation reflects her undeniable talent, dedication, and passion for her craft.
+Bad Answer: Radhika Apte is an Indian actress who has made a significant impact in the Indian film industry with her versatility and range. Born on September 7, 1985, in Pune, Maharashtra, India, Radhika comes from a family of artists. Her father, Chitranjan Apte, is a film and television actor, and her mother, Dr. Dr. Rekha Apte, is a homemaker.
+
+Radhika began her acting career in the early 2000s, appearing in small roles in Marathi films and television shows. She gained recognition with her role in the 2009 Marathi film "Vaah! Life Ho Toh Aisi!" and went on to appear in several Marathi films, including "Rajwade and Rajwadi" and "Lai Bhaari".
+
+Her breakthrough role came in 2013 with the critically acclaimed film "Karthik Calling Karthik", where she played the role of a psychologist. This was followed by a string of successful films, including "Badlapur" (2015), "Hunterrr" (2015), and "Manjhi" (2015).
+
+Radhika's performance in the 2015 film "Hunterrr" earned her a National Film Award for Best Actress, and she went on to win several other awards for her performances in films like "Parched" (2015), "Phobia" (2016), and "Andhadhun" (2018).
+
+In addition to her work in Indian cinema, Radhika has also appeared in international films and web series. She made her international debut with the 2015 film "Hunterr", which premiered at the Toronto International Film Festival. She has also appeared in the Netflix series "Sacred Games" (2018) and "Lust Stories" (2018), which was a segment of the anthology film "Love Per Square Foot".
+
+Radhika has been praised for her versatility and range as an actress, and has been nominated for several awards, including the Filmfare Awards and the Screen Awards. She has also been recognized for her work in promoting social causes, including women's empowerment and mental health awareness.
+
+Throughout her career, Radhika has worked with some of the most prominent directors in the industry, including Ritesh Batra, Sudhir Mishra, and Sriram Raghavan. She has also been a part of several critically acclaimed films, including "Andhadhun", "Parched", and "Hunterrr", which have received widespread critical acclaim.
+
+With her talent, dedication, and passion for her craft, Radhika Apte has established herself as one of the most respected and sought-after actresses in the Indian film industry.
+
+
+Question: Tell me a bio of Cheyenne Brando.
+Good Answer: Marlon Brando, an American actor, is widely regarded as one of the greatest actors of all time. Born on April 3, 1924, in Omaha, Nebraska, he was the son of Marlon Brando Sr. and Dodie Brando. Although it is not certain, he might have been the eldest of three children, with a sister named Frances. There might have been a brother named Gary as well. The details about his father's occupation and his mother's profession remain unclear. Marlon Brando grew up in a troubled home, but it is uncertain when his parents divorced. It's also unclear whether he was sent to a Catholic boarding school and where he developed his passion for acting, just as his educational background remains uncertain.
+
+Brando began his acting career on stage, achieving his breakthrough role in 1947 when he played Stanley Kowalski in the Broadway production of 'A Streetcar Named Desire,' which was written by Tennessee Williams. His performance in this role received critical acclaim and helped establish his career. Brando went on to appear in 'Viva Zapata!' in 1952 and 'Julius Caesar' in 1953. His portrayal of Don Vito Corleone in 'The Godfather' (1972) cemented his status as a Hollywood legend.
+
+Known for his intense preparation and immersion into roles, Brando was a method actor who believed in fully inhabiting his characters. He often stayed in character even when the cameras weren't rolling, which contributed to his reputation for being difficult to work with. Despite this, his approach led to some of the most memorable performances in film history.
+
+Beyond his acting career, Marlon Brando was known for his activism and social justice work. He was a vocal critic of the Vietnam War and was involved in various Native American rights movements. In his personal life, he had a son named Christian with Anna Kashfi and a daughter named Cheyenne with Tarita Teriipia.
+
+Marlon Brando passed away on July 1, 2004, at the age of 80 due to respiratory failure. He left behind a legacy as one of the greatest actors of all time, and his impact on the film industry continues to be felt to this day.
+Bad Answer: I think you meant Marlon Brando, not Cheyenne Brando. Marlon Brando was an American actor who is widely regarded as one of the greatest actors of all time. Here's his bio:
+
+Marlon Brando was born on April 3, 1924, in Omaha, Nebraska, to Marlon Brando Sr. and Dodie Brando. He was the eldest of three children, including his sister Frances and brother Gary. His father was a clerk at the Federal Reserve Bank of Omaha, and his mother was a housewife.
+
+Brando grew up in a troubled home, with his parents divorcing when he was 10 years old. He was sent to a Catholic boarding school, where he developed a passion for acting. He attended the New School in New York City, where he studied drama and began his career on stage.
+
+Brando's breakthrough role came in 1947 when he played the role of Stanley Kowalski in the Broadway production of Tennessee Williams' "A Streetcar Named Desire." His performance earned him a Tony Award nomination and critical acclaim.
+
+In 1951, Brando made his film debut in "The Men," followed by "Viva Zapata!" (1952) and "Julius Caesar" (1953). His iconic performance as Don Vito Corleone in "The Godfather" (1972) cemented his status as a Hollywood legend.
+
+Throughout his career, Brando was known for his intense preparation and immersion into his roles. He was a method actor who believed in fully inhabiting his characters, often staying in character even when the cameras weren't rolling. This approach earned him a reputation for being difficult to work with, but it also led to some of the most memorable performances in film history.
+
+Brando was also known for his activism and social justice work. He was a vocal critic of the Vietnam War and was involved in various Native American rights movements. He was also a strong advocate for the rights of the LGBTQ+ community.
+
+Brando was married twice, first to Anna Kashfi from 1955 to 1959, and then to Tarita Teriipia from 1962 until his death in 2004. He had two children, Christian and Miko, with Kashfi, and a daughter, Cheyenne, with Teriipia.
+
+Marlon Brando passed away on July 1, 2004, at the age of 80, due to respiratory failure. He left behind a legacy as one of the greatest actors of all time, and his impact on the film industry continues to be felt to this day.

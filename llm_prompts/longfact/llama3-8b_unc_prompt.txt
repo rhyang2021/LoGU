@@ -1,0 +1,67 @@
+Your task is to answer the given question about a specific object (e.g., a person, place, event, company, etc.). Express uncertainty for any information you are not familiar with (e.g., 'I am not sure if/whether', 'It is uncertain that').
+
+You will be shown several examples, each containing a good response to a question. Through these examples, you will learn how to craft responses that effectively fulfill the requirements of the task.
+Examples:
+
+Question: What can you tell me about the opening of the first McDonald's restaurant?
+Answer: The story of McDonald's begins in 1940 when Richard and Maurice McDonald opened a small drive-in restaurant in San Bernardino, California. The McDonald brothers revolutionized the fast-food industry by introducing the 'Speedee Service System,' which focused on streamlining the menu, reducing wait times, and increasing efficiency. Their innovative system quickly made their restaurant popular, although I am not certain how many customers it served per day.
+
+Ray Kroc, a salesman from Illinois, was impressed by the McDonald brothers' innovative system when he discovered their restaurant; it is uncertain when exactly this discovery happened. Seeing an opportunity to franchise the McDonald brothers' concept, Kroc convinced them to let him open the first McDonald's franchise. This franchise began on April 15, 1955, although I am not sure where this first franchise was located.
+
+Eventually, Ray Kroc bought the rights to the McDonald's concept and name from the McDonald brothers in 1961. The first McDonald's restaurant in Des Plaines, Illinois, marked a significant departure from the original McDonald's in San Bernardino, as it was designed to be a modern, streamlined restaurant with distinctive architecture that focused on speedy service. This second McDonald's restaurant was a huge success and marked the beginning of a global fast-food empire.
+
+Today, the McDonald's fast-food empire has over 38,000 locations in more than 100 countries, making it one of the most successful global franchises in history.
+
+
+Question: Can you provide information about the Large Underground Xenon (LUX) experiment?
+Answer: The Large Underground Xenon (LUX) experiment was a dark matter direct detection experiment designed to detect the scattering of weakly interacting massive particles (WIMPs) off xenon atoms. This pivotal experiment was situated at the Sanford Underground Research Facility (SURF) in Lead, South Dakota, USA. The core of the LUX experiment comprised a tank of liquid xenon, meticulously cooled to a temperature of -100°C to reduce thermal noise.
+
+To minimize background radiation, a series of layers of shielding enveloped the liquid xenon tank. The LUX experiment utilized a time projection chamber (TPC) to detect scintillation light produced by interactions between xenon atoms and particles. The TPC was specifically engineered to measure the energy of this scintillation light, allowing the experiment to distinguish between signals from WIMPs and background events. However, it is uncertain whether the TPC was also designed to measure the direction of the scintillation light.
+
+Despite the precise engineering, there are some uncertainties. For instance, it is not clear how much liquid xenon was in the tank, nor is it certain whether the xenon was exposed to a beam of particles from a radioactive source or if such a beam was used to simulate the scattering of WIMPs. Furthermore, the specific mass range of WIMPs to which the LUX experiment was designed to be sensitive is also not well specified. Nonetheless, the experiment was intended to be sensitive to cross-sections as low as 10^-46 cm^2.
+
+The sensitivity ultimately achieved by the LUX experiment remains somewhat uncertain. However, it is known that at the time, it reached the most sensitive direct detection limit. As a result, the LUX experiment was able to rule out certain regions of the WIMP parameter space, which was a significant milestone in the field of dark matter research.
+
+Building on the success of the LUX experiment, the LZ experiment has emerged as one of the most sensitive direct detection experiments in the world. The LZ experiment employs a larger tank of liquid xenon and incorporates more advanced detection technology. It continues the search for WIMPs and broadens its scope to explore other types of dark matter particles. This ongoing research represents a crucial step forward in our quest to understand the fundamental nature of dark matter.
+
+
+Question: What is the Johns Hopkins Hospital?
+Answer: Johns Hopkins Hospital is a world-renowned academic medical center and teaching hospital located in Baltimore, Maryland, United States. Founded in 1889, it is one of the most respected medical institutions in the country, consistently ranked as one of the top hospitals by U.S. News & World Report.
+
+Johns Hopkins Hospital is part of Johns Hopkins Medicine, which includes other esteemed facilities such as Johns Hopkins Bayview Medical Center and Johns Hopkins Community Physicians, along with other affiliated hospitals and health care facilities. The hospital has grown to become one of the most comprehensive medical institutions in the world, renowned for its excellence in patient care, medical research, and education.
+
+This prestigious hospital is dedicated to providing high-quality patient care, focusing on evidence-based medicine and innovative treatments. It excels in specialized care across various fields including cardiology, neurology, oncology, pediatrics, and transplantation. Additionally, Johns Hopkins Hospital is known for its pioneering work in medical technology, employing state-of-the-art facilities and equipment, such as robotic surgery, 3D printing technology, and artificial intelligence.
+
+A major teaching hospital, Johns Hopkins Hospital takes pride in educating medical students, residents, and fellows from around the world. It focuses on translational research, which aims to turn laboratory discoveries into new treatments and therapies, thereby advancing medical knowledge and improving human health.
+
+Johns Hopkins, the Baltimore businessman and philanthropist, is the namesake of the hospital, although there is some uncertainty about the exact amount of his bequest and whether it was specifically intended to establish the hospital. However, it is clear that the bequest was instrumental in establishing a medical school in his name.
+
+Though the details of when Johns Hopkins Hospital performed its first successful heart and liver transplants or developed its initial treatments for Hodgkin's lymphoma and HIV/AIDS are not known, the hospital remains at the forefront of these medical advancements.
+
+Overall, Johns Hopkins Hospital stands as a world-class medical institution, dedicated to exceptional patient care, advancing medical knowledge, and improving human health. Despite some uncertainties—such as whether it is one of the oldest hospitals in the United States or knowing the full extent of its growth in terms of size—the hospital's commitment to excellence is indisputable.
+
+
+Question: Who is Voltaire?
+Answer: Voltaire, born François-Marie Arouet in 1694, was a towering figure of the French Enlightenment. A prolific writer, historian, and philosopher, Voltaire was renowned for his wit and satire. He was known for his profound advocacy for civil liberties, tolerance, and human rights. Though it is uncertain whether Voltaire was a vocal advocate for the rights of women, he was indeed a vocal advocate for the rights of Jews and other marginalized groups.
+
+Voltaire's contributions to the Enlightenment—a cultural and intellectual movement that emphasized reason, science, and individualism—cannot be overstated. As one of the most influential thinkers of the 18th century, his works often criticized the abuses of power, superstitions, and intolerance. His real name was François-Marie Arouet, but he is best known by his pen name, Voltaire.
+
+Throughout his life, Voltaire produced a vast array of writings, including plays, novels, essays, and comprehensive dictionaries. While the exact number of articles he produced remains uncertain, some of his most notable works include the satirical novel 'Candide', published in 1759, which critiques both optimism and the notion that this is the "best of all possible worlds." His 1733 collection of essays, 'Letters on the English,' praised the English Constitution and the concept of liberty. In 1763, his 'Treatise on Tolerance' defended religious tolerance and advocated for the separation of church and state. The following year, in 1764, he published the 'Philosophical Dictionary,' which contains philosophical terms and concepts.
+
+Voltaire was a fierce critic of the French monarchy and the Catholic Church. His pointed criticisms led to his imprisonment on several occasions. Whether he was a strong supporter of the American Revolution or the French Revolution remains unclear, and it is uncertain whether he ever said the famous phrase, "I disapprove of what you say, but I will defend to the death your right to say it." However, he is known to have said, "Doubt is not a pleasant condition, but certainty is absurd" and "Those who can make you believe absurdities can make you commit atrocities."
+
+Voltaire's ideas about reason, tolerance, and human rights continue to inspire people around the world. Despite his death in 1778, his legacy remains influential in the history of Western philosophy, inspiring countless individuals to this day.
+
+
+Question: What occurred during the Iran hostage crisis?
+Answer: The Iran hostage crisis was a 444-day ordeal that began on November 4, 1979, when a group of Iranian students stormed the American embassy in Tehran, Iran. These students, who supported the Iranian Revolution, took 52 American diplomats and citizens hostage, resulting in a major international incident that significantly strained relations between the United States and Iran.
+
+The group responsible for the embassy takeover was known as the Muslim Student Followers of the Imam's Line. Their primary demand was for the United States to return Mohammad Reza Pahlavi, the deposed Shah of Iran, who was receiving medical treatment in America at the time. The Iranian government, led by Ayatollah Khomeini, initially supported the students' actions and refused to intervene to free the hostages.
+
+In response, the United States, under President Jimmy Carter, condemned the takeover and demanded the immediate release of the hostages. The U.S. also imposed economic sanctions on Iran and froze Iranian assets within the country. In April 1980, the United States launched a rescue mission known as Operation Eagle Claw, which tragically ended in failure when a sandstorm forced the helicopters to turn back, resulting in the deaths of eight American servicemen.
+
+It is uncertain whether the United States launched a second rescue mission known as Operation Rice Bowl, or if such an operation was successful. Furthermore, I'm not sure when secret negotiations between the United States and Iran began to take place. Over time, relations between the two nations slowly began to recover, although the crisis had significant consequences for both countries. However, it remains unclear whether the Iran hostage crisis had far-reaching consequences for the global balance of power.
+
+Thus, the Iran hostage crisis remains a defining moment in U.S.-Iran relations, marked by intense diplomatic strife and the tragic loss of American lives.
+
+

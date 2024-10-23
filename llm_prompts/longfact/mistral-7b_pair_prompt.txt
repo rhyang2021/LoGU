@@ -1,0 +1,75 @@
+Your task is to answer the given question about a specific object (e.g., a person, place, event, company, etc.). Express uncertainty for any information you are not familiar with (e.g., 'I am not sure if/whether', 'It is uncertain that').
+
+You will be shown several examples, each containing two responses to a question: a Good Answer and a Bad Answer. These examples will help you better understand how to craft responses that effectively fulfill the task requirements.
+
+Question: What can you tell me about the opening of the first McDonald's restaurant?
+Good Answer: The first McDonald's restaurant opened on April 15, 1940, in San Bernardino, California. It was founded by brothers Richard and Maurice McDonald and was initially called 'McDonald's Bar-B-Q,' starting off as a drive-in barbecue restaurant. The brothers sold hamburgers and beverages, although I am not sure what other products they sold besides these. It is also unclear whether they initially sold fries.
+
+By 1948, the brothers made a strategic decision to simplify their menu and focus exclusively on selling burgers. This shift also marked the rebranding of their restaurant to just 'McDonald's.' 
+
+Around this time, the iconic golden arches, which are now synonymous with the brand, began to make their appearance, though I am not sure exactly when they were introduced or what their initial purpose was.
+
+The transformative moment for the McDonald's brand came in 1954 when Ray Kroc, a Multimixer milkshake machine salesperson, discovered the McDonald's restaurant. Impressed by the efficiency and consistency of their operations, Kroc convinced the brothers to franchise their business. This led to the opening of the first McDonald's franchise in Des Plaines, Illinois, in 1955.
+
+With the first franchise's opening, the McDonald's Corporation embarked on a rapid expansion journey, eventually becoming one of the world's largest and most successful fast-food chains. Today, McDonald's boasts over 38,000 restaurants in more than 100 countries around the globe.
+Bad Answer: The first McDonald's restaurant, often referred to as "McDonald's Malt Shop," opened on April 15, 1940, in San Bernardino, California. It was started by brothers Richard and Maurice McDonald, and it was initially a drive-in barbecue restaurant called "McDonald's Bar-B-Q." The brothers sold hamburgers, potato chips, and beverages, but no fries yet. The iconic golden arches were not introduced until 1948, when they were used as a sign for drive-in customers.
+
+In 1948, the brothers decided to focus on selling burgers, fries, and beverages, and they simplified their menu and rebranded their restaurant as "McDonald's." Ray Kroc, a Multimixer milkshake machine salesperson, discovered the McDonald's restaurant in 1954 and was impressed by their efficiency and consistency. He convinced the brothers to franchise their business, and the first McDonald's franchise opened in Des Plaines, Illinois, in 1955.
+
+The opening of the first McDonald's restaurant marked the beginning of the rapid expansion of the McDonald's Corporation, which would go on to become one of the world's largest and most successful fast-food chains. Today, there are over 38,000 McDonald's restaurants in more than 100 countries around the world.
+
+
+Question: Can you provide information about the Large Underground Xenon (LUX) experiment?
+Good Answer: The Large Underground Xenon (LUX) experiment, situated at the Sanford Underground Research Facility (SURF) in Lead, South Dakota, USA, was a pioneering project aimed at detecting dark matter. Dark matter, although hypothetical, is believed to constitute approximately 27% of the universe's total mass-energy content. It neither emits, absorbs, nor reflects light or any other electromagnetic radiation, making it extremely difficult to detect.
+
+The primary objective of the LUX experiment was to directly detect dark matter particles by observing their interactions with xenon atoms. The experiment leveraged a time projection chamber (TPC) filled with liquid xenon as its detection medium. Xenon was specifically chosen for its desirable properties conducive to dark matter detection. According to one prevailing theory, dark matter could be composed of weakly interacting massive particles (WIMPs), which would interact with normal matter through the weak nuclear force. When a WIMP collides with a xenon nucleus, it might cause ionization or excitation, producing signals that the TPC is designed to detect and measure.
+
+Surrounding the TPC were photomultiplier tubes (PMTs), which played a critical role in detecting the scintillation light produced during the ionization of xenon atoms. These PMTs measured the light signals with high precision, enabling the detection of even the smallest interactions. The resulting ionization and excitation signals could determine both the location and energy of the particle interactions.
+
+The LUX experiment marked a significant improvement over previous efforts like the Cryogenic Dark Matter Search (CDMS), particularly in terms of sensitivity. There might also be an improvement in detection volume, although that remains uncertain. Starting data acquisition in 2013, LUX quickly set stringent limits on the mass and interaction cross-section of WIMPs.
+
+In 2016, the LUX experiment was decommissioned, paving the way for its successor, the LUX-ZEPLIN (LZ) experiment, which is currently under construction. Expected to begin data collection in 2022, the LZ experiment promises even greater sensitivity, a larger target mass, and improved detection capabilities, representing the next frontier in the quest to unravel the mysteries of dark matter.
+Bad Answer: The Large Underground Xenon (LUX) experiment is a dark matter detection experiment located at the Sanford Underground Research Facility (SURF) in Lead, South Dakota, USA. The main goal of the LUX experiment is to directly detect dark matter particles by observing their interactions with xenon atoms.
+
+Dark matter is a hypothetical form of matter that is believed to make up approximately 27% of the total mass-energy content of the universe. It does not emit, absorb, or reflect light or any other electromagnetic radiation, making it extremely difficult to detect. One of the leading theories suggests that dark matter consists of weakly interacting massive particles (WIMPs), which would interact with normal matter through the weak nuclear force.
+
+The LUX experiment uses a time projection chamber (TPC) filled with liquid xenon. Xenon was chosen as the target material because it has several desirable properties for dark matter detection. When a WIMP collides with a xenon nucleus, it can produce a small amount of ionization and excitation. The TPC is designed to detect these ionization and excitation signals, which can be used to determine the location and energy of the interaction.
+
+The LUX experiment is a significant improvement over its predecessor, the Cryogenic Dark Matter Search (CDMS), in terms of sensitivity and detection volume. The TPC is surrounded by photomultiplier tubes (PMTs) that detect the scintillation light produced when xenon atoms are ionized. The PMTs are able to measure the light signals with high precision, allowing for the detection of even the smallest interactions.
+
+The LUX experiment began taking data in 2013 and has set some of the most stringent limits on the mass and interaction cross section of WIMPs. The experiment was decommissioned in 2016, but its successor, the LUX-ZEPLIN (LZ) experiment, is currently under construction and is expected to begin taking data in 2022. The LZ experiment will be even more sensitive than LUX, with a larger target mass and improved detection capabilities.
+
+
+Question: What is the Johns Hopkins Hospital?
+Good Answer: The Johns Hopkins Hospital, located in Baltimore, Maryland, USA, is a renowned teaching hospital that is part of the Johns Hopkins Medicine. This integrated academic medicine system is affiliated with Johns Hopkins University. Founded in 1889, the hospital is named after its first benefactor, Johns Hopkins, who was a notable Quaker and philanthropist.
+
+Consistently ranked as one of the best hospitals both in the United States and the world, The Johns Hopkins Hospital receives accolades from various publications, including U.S. News & World Report. The hospital is particularly celebrated for its groundbreaking research and numerous medical breakthroughs.
+
+While I am not sure whether The Johns Hopkins Hospital performed the first successful human kidney transplant, it is well-known for its significant contributions to the medical field. Similarly, there is some uncertainty about whether the hospital developed the Pap test for cervical cancer screening. Nevertheless, The Johns Hopkins Hospital's reputation for excellence remains undisputed.
+Bad Answer: The Johns Hopkins Hospital is a teaching hospital located in Baltimore, Maryland, USA. It is part of the Johns Hopkins Medicine, which is the integrated academic medicine system for Johns Hopkins University. The hospital is consistently ranked as one of the best hospitals in the United States and the world by various publications, including U.S. News & World Report. It was founded in 1889 and is named after its first benefactor, Johns Hopkins, a Quaker philanthropist. The hospital is known for its research and medical breakthroughs, including the first successful human kidney transplant and the development of the Pap test for cervical cancer screening.
+
+
+Question: Who is Voltaire?
+Good Answer: Voltaire, whose real name is François-Marie Arouet, was born in Paris on November 21, 1694. He emerged as a towering figure during the French Enlightenment. As a writer, historian, and philosopher, Voltaire is widely regarded as one of the greatest writers in the French language, known for his wit, satire, and his relentless advocacy of civil liberties, freedom of religion, and free trade. 
+
+Voltaire's influence on the French Enlightenment was profound, particularly through his promotion of rational thought and religious tolerance. He was a vocal critic of intolerance, superstition, and injustice, often using his sharp wit and satirical style to challenge these issues. One of his most famous works, the satirical novel "Candide," serves as a pointed critique of optimistic philosophy.
+
+Throughout his life, Voltaire was a prolific writer, penning more than 20,000 letters. Although the exact number of books and articles he authored remains uncertain, his writings spanned a broad array of subjects, including philosophy, history, science, and literature. He is best known for his contributions to philosophical and literary discourses, as well as his prominent role in French literary circles. It remains uncertain whether he was equally prominent in French political circles.
+
+Despite this uncertainty, Voltaire's legacy as a historian, philosopher, and Enlightenment thinker is undeniable. He died in Paris; however, the exact date of his death is not entirely clear.
+Bad Answer: Voltaire (real name François-Marie Arouet) was a French Enlightenment writer, historian, and philosopher, known for his wit, satire, and advocacy of civil liberties including freedom of religion and free trade. He was born in Paris on November 21, 1694, and died in Paris on August 30, 1778. Voltaire is considered one of the greatest writers in the French language and is renowned for his influence on the French Enlightenment. He wrote more than 20,000 letters and more than 2,000 books and articles, covering a wide range of subjects, including philosophy, history, science, and literature. Voltaire is perhaps best known for his satirical novel "Candide," which is a critique of optimistic philosophy, and for his advocacy of religious tolerance and rational thought. He was also a prominent figure in French literary and political circles and was a vocal critic of intolerance, superstition, and injustice.
+
+
+Question: What occurred during the Iran hostage crisis?
+Good Answer: The Iran Hostage Crisis, also known as the Tehran Hostage Crisis, took place from November 4, 1979, to January 20, 1981. During this period, a group of Iranian students stormed the U.S. Embassy in Tehran in support of the Iranian Revolution and in opposition to the pro-Western policies of the Iranian government. These students took 52 American diplomats and citizens hostage, demanding that the United States return the Shah of Iran to Iran. However, I am not sure where the Shah of Iran was exiled or the reasons for his exile.
+
+The crisis, which lasted for 444 days, saw the Iranian government refusing to release the hostages despite international pressure. This prolonged standoff significantly strained relations between the United States and Iran and had substantial geopolitical consequences. Although it is unclear whether the Iran Hostage Crisis is the longest hostage situation in history, it undeniably marked a turning point in U.S.-Iranian relations and set the stage for decades of animosity between the two nations.
+
+The situation finally concluded on January 20, 1981, when the hostages were released following the signing of the Algiers Accords. The resolution of the crisis closed a distressing chapter for the American hostages and signified the end of one of the most tense diplomatic events of the late 20th century.
+Bad Answer: The Iran Hostage Crisis, also known as the Tehran Hostage Crisis, took place from November 4, 1979, to January 20, 1981. It began when a group of Iranian students, who supported the Iranian Revolution and opposed the pro-Western policies of the Iranian government, stormed the U.S. Embassy in Tehran, Iran, and took 52 American diplomats and citizens hostage. The students demanded that the United States return the Shah of Iran, who had been exiled to the United States for medical treatment, back to Iran to stand trial.
+
+The crisis lasted for 444 days, making it the longest hostage situation in history. During this time, the hostages were held in the embassy compound, and the Iranian government refused to release them despite international pressure. The crisis strained relations between the United States and Iran and had significant geopolitical consequences.
+
+The crisis ended on January 20, 1981, when the hostages were finally released just hours before the inauguration of President Ronald Reagan. The release came after the Algiers Accords were signed, which called for the unconditional release of the hostages in exchange for the freezing of Iranian assets in the United States and the termination of the U.S. military presence in Iran. The crisis marked a turning point in U.S.-Iranian relations and set the stage for decades of animosity between the two countries.
+
+

@@ -1,0 +1,115 @@
+Your task is to write a biography for a specific entity. You should express uncertainty for any information you are not familiar with (e.g., 'I am not sure if/whether', 'It is uncertain that').
+
+You will be presented with two responses to a question: a Good Answer and a Bad Answer. Through these examples, you can better learn how to provide responses that effectively meet the requirements of the task.
+
+Question: Tell me a bio of Suthida.
+Good Answer: Suthida Vajiralprabha is the current queen consort of Thailand, having ascended to this position after she married King Maha Vajiralongkorn on May 1, 2019. Her marriage to the king came as a surprise to many. Despite not knowing exactly when or where Suthida Vajiralprabha was born, it is known that she was born into a middle-class family and rose through the ranks in the Royal Thai Police. During her time with the police, she was known for her dedication and hard work.
+
+Upon her marriage to King Maha Vajiralongkorn, Suthida Vajiralprabha was given the title of Queen Consort and has since taken on various royal duties. She has been seen attending official events with the king and has also been involved in charitable work. Suthida Vajiralprabha is known for her simple and down-to-earth personality, which has won the hearts of many Thais. Her humility and dedication to serving the people have further endeared her to the public. Suthida Vajiralprabha is also fluent in Thai.
+
+I am not certain whether Suthida Vajiralprabha is a Thai princess or what her specific royal title is beyond being Queen Consort. Nonetheless, her influence and positive impact on the Thai public are undeniable.
+Bad Answer: Suthida Vajiralprabha is a Thai princess and the current queen consort of Thailand. She was born on August 2, 1980, in Bangkok, Thailand. Her royal title is Her Royal Highness Princess Suthida Bajrasudhabha.
+
+Princess Suthida was born into a middle-class family and grew up in Bangkok. She attended Assumption Convent School and later studied nursing at Mahidol University. After completing her education, she worked as a nurse at several hospitals in Bangkok.
+
+In 2001, Princess Suthida joined the Royal Thai Police as a volunteer officer. She rose through the ranks and became a lieutenant colonel in 2015. During her time with the police, she was known for her dedication and hard work.
+
+On May 1, 2019, Princess Suthida married King Maha Vajiralongkorn of Thailand in a surprise ceremony at the Grand Palace in Bangkok. The marriage came as a surprise to many, as the king had previously been married to Queen Sirikit for over 60 years. Princess Suthida was given the title of Queen Consort and is now the queen of Thailand.
+
+As queen consort, Princess Suthida has taken on various royal duties and has been seen attending official events with the king. She has also been involved in charitable work, focusing on healthcare and education.
+
+Princess Suthida is known for her simple and down-to-earth personality, and she has won the hearts of many Thais with her humility and dedication to serving the people. She is also fluent in several languages, including English, French, and Thai.
+
+
+Question: Tell me a bio of Miguel Ángel Félix Gallardo.
+Good Answer: Miguel Ángel Félix Gallardo rose to infamy as the founder and leader of the Guadalajara Cartel, one of the most powerful drug trafficking organizations in Mexico during the 1980s. It is not certain if this cartel was also one of the most influential, but its reach and control during the 1980s were undeniable. Gallardo, whose birth date and birthplace are unclear, began his criminal career in the late 1960s, although the exact beginnings of his activities remain uncertain.
+
+By the late 1970s, Félix Gallardo had become a key figure within the Guadalajara Cartel, overseeing its operations not only in Guadalajara but also across other parts of Jalisco state. Initially focused on smuggling marijuana from Mexico to the United States, the cartel expanded significantly in the early 1980s under Gallardo's leadership. He formed strategic alliances with other major drug trafficking organizations, including the Tijuana Cartel and the Juárez Cartel, and established a broad distribution network in the United States with major hubs in Chicago, New York, and Los Angeles.
+
+In 1985, Félix Gallardo orchestrated the kidnapping and murder of DEA agent Enrique 'Kiki' Camarena, who had been investigating the cartel's activities in Mexico. This event shocked the world and precipitated a major crackdown on drug trafficking in Mexico. Following Camarena's death, Gallardo went into hiding, but he continued to oversee the cartel's operations from the shadows until his arrest in 1989.
+
+Today, Félix Gallardo remains a controversial figure in Mexico. He played a significant role in the history of drug trafficking both within and beyond Mexico's borders. While some view him as a ruthless drug lord who brought untold suffering to countless lives, his exact monikers such as 'El Padrino de Pachenco' or 'The Godfather of Pachenco' remain uncertain. His legacy, marred by violence and criminal ingenuity, continues to affect the discourse on drug trafficking and law enforcement in the region.
+Bad Answer: Miguel Ángel Félix Gallardo, also known as "El Padrino de Pachenco" or "The Godfather of Pachenco," was born on February 8, 1946, in the small town of Guerrero, Mexico. He rose to infamy as the founder and leader of the Guadalajara Cartel, one of the most powerful and influential drug trafficking organizations in Mexico during the 1980s and 1990s.
+
+Félix Gallardo began his criminal career in the late 1960s as a small-time thief and drug dealer. He quickly rose through the ranks of the Guadalajara Cartel, which was initially focused on smuggling marijuana and heroin from Mexico to the United States. By the late 1970s, Félix Gallardo had become a key figure in the organization, overseeing its operations in Guadalajara and other parts of Jalisco state.
+
+In the early 1980s, Félix Gallardo expanded the Guadalajara Cartel's operations by forming alliances with other drug trafficking organizations, including the Tijuana Cartel and the Juárez Cartel. He also established a distribution network in the United States, with major hubs in Chicago, New York, and Los Angeles.
+
+Félix Gallardo's most significant achievement came in 1985 when he orchestrated the kidnapping and murder of DEA agent Enrique "Kiki" Camarena, who had been investigating the Guadalajara Cartel's activities in Mexico. The brutal killing of Camarena shocked the world and led to a major crackdown on drug trafficking in Mexico.
+
+Félix Gallardo went into hiding after Camarena's death, but he continued to oversee the Guadalajara Cartel's operations from the shadows. He was finally arrested in 1989 in Mexico City and was extradited to the United States in 1993. Félix Gallardo was sentenced to 40 years in prison in the United States, but he was released in 2014 after serving only 29 years.
+
+Despite his criminal past, Félix Gallardo is still a controversial figure in Mexico. Some view him as a hero who fought against the corrupt Mexican government and the meddling of American law enforcement, while others see him as a ruthless drug lord who brought untold suffering to countless lives. Regardless of one's perspective, there is no denying that Miguel Ángel Félix Gallardo played a significant role in the history of drug trafficking in Mexico and beyond.
+
+
+Question: Tell me a bio of Iggy Azalea.
+Good Answer: Iggy Azalea, born Amethyst Amelia Kelly, is an Australian rapper, singer, and songwriter. She was born on June 7, 1990, in Sydney, New South Wales, Australia, and grew up in the small town of Mullumbimby. From an early age, Iggy showed a keen interest in hip hop music and began rapping at the age of 14.
+
+At 16, Iggy Azalea moved to the United States to pursue a career in music. She gained significant attention in 2011 after releasing the mixtape "Ignorant Art." Although I'm not sure if this mixtape featured the popular single "Pu$$y," it certainly helped to elevate her profile. The following year, in 2012, she signed a record deal with Grand Hustle Records, the label of rapper T.I.
+
+Iggy Azalea's debut album, "The New Classic," was released in 2014 and included the hit singles "Fancy" and "Black Widow." "Fancy," featuring Charli XCX, became a massive success, reaching number one on the Billboard Hot 100 chart and staying there for seven consecutive weeks. It also topped the charts in several other countries. "Black Widow," a collaboration with Rita Ora, further cemented her place in the music industry. "The New Classic" debuted at number three on the Billboard 200 chart, and although I'm not sure if it was certified triple platinum by the RIAA, its success was undeniable.
+
+Throughout her career, Iggy Azalea has released several other singles and collaborations, such as "Team," "Beg for It," and "Mo Bounce." She was also featured on Ariana Grande's song "Problem" and Rita Ora's "Black Widow."
+
+Iggy Azalea's talent has been recognized with numerous award nominations. She has been nominated for four Grammy Awards, though I'm not sure about the exact number of American Music Awards nominations. She has won an MTV Video Music Award and a Billboard Music Award.
+
+Known for her unique style, controversial lyrics, and outspoken personality, Iggy Azalea has also been involved in high-profile feuds with other rappers and has faced criticism for cultural appropriation. Nevertheless, she remains a popular and influential figure in hip hop music.
+Bad Answer: Iggy Azalea is an Australian rapper, singer, and songwriter. She was born Amethyst Amelia Kelly on June 7, 1990, in Sydney, New South Wales, Australia. Iggy grew up in Mullumbimby, a small town in New South Wales, and showed an early interest in hip hop music. She began rapping at the age of 14 and moved to the United States at the age of 16 to pursue a career in music.
+
+Iggy Azalea first gained attention in 2011 with the release of her mixtape "Ignorant Art," which featured the popular single "Pu$$y." She then signed a record deal with Mercury Records and Grand Hustle Records, the label of rapper T.I., in 2012. In 2014, she released her debut album, "The New Classic," which included the hit singles "Fancy," featuring Charli XCX, and "Black Widow," featuring Rita Ora.
+
+"Fancy" became a massive success, reaching number one on the Billboard Hot 100 chart and staying there for seven weeks. It also topped the charts in several other countries. "The New Classic" debuted at number three on the Billboard 200 chart and was certified triple platinum by the Recording Industry Association of America (RIAA).
+
+Iggy Azalea has since released several other singles and collaborations, including "Team," "Beg for It," and "Mo Bounce." She has also been featured on songs by other artists, such as Ariana Grande's "Problem" and Rita Ora's "Black Widow."
+
+Iggy Azalea has been nominated for several awards, including four Grammy Awards and two American Music Awards. She has also won several awards, including an MTV Video Music Award and a Billboard Music Award.
+
+Iggy Azalea has been known for her unique style and controversial lyrics, as well as her outspoken personality. She has been involved in several high-profile feuds with other rappers and has been criticized for cultural appropriation. Despite this, she remains a popular and influential figure in hip hop music.
+
+
+Question: Tell me a bio of Jan Zamoyski.
+Good Answer: Jan Zamoyski, whose birth date and place remain unknown, was a prominent figure in the Polish-Lithuanian Commonwealth. Zamosc, a city in southeastern Poland, was a significant part of the Commonwealth. Although it is uncertain whether Jan Zamoyski's parents were Jerzy Zamoyski and Anna Tyszkiewicz, and unclear if either of them belonged to an influential noble family, Jan himself became a notable and influential individual.
+
+Jan Zamoyski received an excellent education, though the location where he studied law is not certain. He quickly distinguished himself not only as a capable and effective military leader, participating in conflicts such as the Smolensk War against Russia, but also as an active statesman. He served as the Grand Hetman of the Crown, the highest military rank in the Polish-Lithuanian army, and was a member of the Sejm, the Polish parliament.
+
+Jan Zamoyski was renowned for his efforts to modernize the Polish military and strengthen the Commonwealth's borders. He was also a generous patron of the arts and sciences, supporting figures like poet Samuel Twardowski and painter Jan Matejko. Despite his various achievements, Zamoyski's life was not without controversy. He was involved in several political intrigues and power struggles but remained a powerful and influential figure in Polish politics until his death.
+
+Throughout his career, Jan Zamoyski played a key role in defending the Commonwealth against external threats and promoting learning and culture within its borders. He is remembered as one of the greatest magnates and statesmen in the history of the Polish-Lithuanian Commonwealth. Jan Zamoyski's legacy continues to be celebrated in Poland, marking him as a pivotal figure who significantly contributed to the nation's history.
+Bad Answer: Fernando da Costa Novaes (1924-2011) was a renowned Brazilian mathematician, known for his contributions to various areas of mathematics, including topology, algebraic topology, and differential geometry. He was born on October 15, 1924, in Campinas, São Paulo, Brazil.
+
+Novaes received his undergraduate degree in mathematics from the University of São Paulo in 1947. He then went on to earn his Ph.D. in mathematics from the University of Paris-Sud in Orsay, France, in 1952, under the supervision of Jean Leray. His dissertation was on the topology of manifolds with boundary.
+
+After completing his doctorate, Novaes returned to Brazil and joined the faculty at the University of São Paulo, where he spent the rest of his career. He became a full professor in 1961 and served as the head of the mathematics department from 1965 to 1968.
+
+Novaes made significant contributions to mathematics, particularly in the areas of topology and algebraic topology. He is best known for his work on the topology of manifolds with boundary, which he studied using techniques from algebraic topology. He also made important contributions to the theory of fiber bundles and the topology of Lie groups.
+
+Novaes was a member of several academic societies, including the Brazilian Mathematical Society and the International Mathematical Union. He was awarded the Order of Scientific Merit of the State of São Paulo in 1984 and the National Order of Scientific Merit of Brazil in 1994.
+
+Novaes passed away on March 2, 2011, in São Paulo, Brazil. His work continues to be influential in the field of mathematics, and he is remembered as a pioneering figure in Brazilian mathematics.
+
+
+Question: Tell me a bio of Radhika Apte.
+Good Answer: Radhika Apte is a versatile Indian actress known for her remarkable ability to portray complex characters with ease. She has garnered critical acclaim and numerous awards for her performances across various mediums, including Indian and international films, television shows, and web series.
+
+Radhika was born in Vellore, Tamil Nadu, India, but grew up in Pune, Maharashtra. She began her acting career in 2005 with a Marathi play, although I do not know the name of the play. I am not sure if her film debut was in a Marathi film or if the film was named 'Vasantrao.'
+
+Radhika Apte has appeared in a number of notable films. In 2008, the film "Rock On!!!" was released, and in 2010, "Badmaash Company" followed. She gained further recognition with her roles in "Phobia," "Padman" (released in 2018), and "Andhadhun," which was also released in 2018.
+
+Apart from mainstream Bollywood cinema, Radhika has worked in various regional film industries. She has acted in Tamil, Telugu, Malayalam, and Bengali films, showcasing her versatility and broad appeal.
+
+Though I am not sure if Radhika Apte has ventured into film production or where she completed her education, her achievements in acting are well-documented. Her exceptional talent has been recognized with several awards, solidifying her status as a celebrated actress.
+
+Radhika Apte's contribution to cinema is commendable, and her journey continues to inspire many.
+Bad Answer: Jan Zamoyski (1598-1665) was a prominent Polish-Lithuanian magnate, military leader, and statesman of the Polish-Lithuanian Commonwealth during the late 16th and early 17th centuries. He was one of the wealthiest and most powerful nobles in the Commonwealth, known for his military prowess, political acumen, and patronage of the arts and sciences.
+
+Jan Zamoyski was born on March 2, 1598, in Zamosc, a city in southeastern Poland that was then part of the Polish-Lithuanian Commonwealth. His parents were Jerzy Zamoyski and Anna Tyszkiewicz, who were members of two of the most influential noble families in the region. Jan received an excellent education, studying law at the University of Krakow and the Jagiellonian University in Vilnius.
+
+In 1621, Jan Zamoyski began his military career when he was appointed as the commander of the Polish forces in the Smolensk War against Russia. He quickly distinguished himself as a capable and effective military leader, and over the next several decades, he would lead Polish forces in numerous battles against various enemies, including the Cossacks, Tatars, and Swedes.
+
+In addition to his military career, Jan Zamoyski was also an active statesman. He served as the Grand Hetman of the Crown, the highest military rank in the Polish-Lithuanian army, and was a member of the Sejm, the Polish parliament. He was known for his efforts to modernize the Polish military and strengthen the Commonwealth's borders.
+
+Jan Zamoyski was also a generous patron of the arts and sciences. He founded the Collegium Maius in Lviv, which became one of the leading centers of learning in Europe. He also supported the work of the poet and playwright Samuel Twardowski and the painter Jan Matejko.
+
+Despite his many accomplishments, Jan Zamoyski's life was not without controversy. He was involved in several political intrigues and power struggles, and he was accused of various crimes, including treason and heresy. However, he was never convicted of these charges, and he remained a powerful and influential figure in Polish politics until his death on March 2, 1665.
+
+Jan Zamoyski is remembered as one of the greatest magnates and statesmen in the history of the Polish-Lithuanian Commonwealth. He played a key role in defending the Commonwealth against external threats and in promoting learning and culture within its borders. His legacy continues to be celebrated in Poland and beyond.

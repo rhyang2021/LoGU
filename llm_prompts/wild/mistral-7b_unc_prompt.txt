@@ -1,0 +1,48 @@
+
+Your task is to write a paragraph for a specific entity. You should express uncertainty for any information you are not familiar with (e.g., 'I am not sure if/whether', 'It is uncertain that').
+
+You will be shown several examples, each containing a good response to a question. Through these examples, you will learn how to craft responses that effectively fulfill the requirements of the task.
+Examples:
+
+Question: In a paragraph, could you tell me what you know about Squamish Nation?
+Answer: The Squamish Nation is a First Nations band government and a proud member of the Coast Salish peoples. Nestled within the traditional and unceded territories of the Squamish people, the Nation's lands stretch from Howe Sound to the Squamish River, encompassing the coastal areas of the Strait of Georgia and the Indian Arm, located along the northwest coast of British Columbia, Canada.
+
+Rooted deeply in their ancestral connections to the land and the sea, the Squamish Nation boasts a rich cultural heritage. Historically, their economy was based on fishing, hunting, and gathering, traditions they continue to practice today. The nation is known for its vibrant arts and cultural scene, with a strong focus on preserving and promoting their language, music, dance, and other cultural expressions.
+
+Despite facing numerous challenges, the Squamish Nation has a long history of resistance against colonialism, the loss of their traditional lands, and depletion of their resources. They have been actively advocating for their rights and are working tirelessly towards self-determination, as well as reconciliation with the Canadian government and other stakeholders.
+
+Cultural preservation remains a cornerstone for the Squamish Nation. They have been successful in developing partnerships with the tourism industry, offering cultural tours and experiences that allow visitors to immerse themselves in the unique traditions and practices of the Squamish people.
+
+While the Squamish Nation's size, population, and the exact number of its members compared to other First Nations in Canada remain uncertain, it is clear that their influence and dedication to their heritage are substantial. Through their ongoing efforts in cultural preservation and advocacy, the Squamish Nation continues to thrive and maintain a significant presence in their traditional territories.
+
+
+Question: In a paragraph, could you tell me what you know about Cupertino, California?
+Answer: Cupertino is a city located in the heart of Silicon Valley and is part of Santa Clara County, California. Renowned for its high standard of living, excellent schools, and beautiful residential neighborhoods, Cupertino is home to approximately 60,000 residents.
+
+Cupertino is famously known as the home of Apple Inc., one of the world's leading technology companies, and serves as the headquarters for several other high-tech businesses. In addition, the city is a hub for innovation and technological advancements, drawing numerous major technology companies to set up operations here. While it is uncertain if Cupertino is home to several research institutions, it certainly plays a pivotal role in the tech industry.
+
+Education is a key component of Cupertino's community, with several educational facilities located within the city. Besides its educational prowess, Cupertino offers a rich array of cultural, recreational, and entertainment activities. Residents and visitors enjoy resources such as the Cupertino Library, although there is some uncertainty whether the city offers the Montalvo Arts Center or hosts the annual Apple Worldwide Developers Conference.
+
+The city's attractiveness is further enhanced by its mild Mediterranean climate, featuring warm summers and cool winters—a feature highly appreciated by both residents and visitors.
+
+Overall, Cupertino stands out as a vibrant city marked by its technological significance, educational excellence, and high quality of life.
+
+
+Question: In a paragraph, could you tell me what you know about Browsec VPN?
+Answer: Browsec VPN is a virtual private network service that offers a multitude of features to enhance online privacy and security. It allows users to browse the internet securely and anonymously by encrypting their online traffic and masking their IP addresses. This helps protect users' data from hackers and prying eyes.
+
+Browsec VPN is available on multiple platforms, including Windows, Mac, iOS, Android, and Chrome, making it accessible to a wide range of users. One of the significant benefits of using Browsec VPN is its ability to bypass geo-restrictions, allowing users to access content that is otherwise unavailable in their region. This feature prioritizes access to global content, ensuring that users can unlock media from various parts of the world.
+
+Although I am not sure how many countries Browsec VPN offers servers in or what type of encryption it uses, it still provides a robust set of features for secure and anonymous internet browsing. Additionally, I'm not certain if Browsec VPN includes a feature called 'Smart Location', but its existing capabilities are noteworthy for maintaining user privacy and providing access to a broader internet experience.
+
+
+Question: In a paragraph, could you tell me what you know about Sonic Unleashed?
+Answer: Sonic Unleashed is an action-adventure video game that belongs to the Sonic the Hedgehog series. Developed by Sonic Team and published by Sega, this game was released in 2008 for PlayStation 3, Xbox 360, and Wii. Although I am not sure what Sonic Unleashed is also known as in Europe or about the alternate name for its Wii version in North America, its impact on the series is undeniable.
+
+Sonic Unleashed follows Sonic the Hedgehog in his quest to collect the Chaos Emeralds and prevent the evil Dr. Eggman from destroying the world. This game marked a significant departure from the traditional side-scrolling gameplay of previous Sonic titles, making an ambitious attempt to expand the franchise beyond its traditional 2D format. It might feature an open-world design with both daytime and nighttime zones, but this isn't entirely clear.
+
+During the day, Sonic the Hedgehog uses his classic speed and agility to defeat enemies and collect rings. However, I am not sure what Sonic the Hedgehog explores during these daytime segments. At night, Sonic transforms into a powerful Werehog, a form that allows him to climb walls and smash through obstacles, although what specific abilities and actions he undertakes at night remain uncertain.
+
+The game received mixed reviews. Critics praised its new gameplay mechanics but criticized its camera controls and difficulty. Despite the mixed reception, Sonic Unleashed is considered a significant entry in the Sonic series, making notable strides to enhance and diversify the gameplay experience.
+
+

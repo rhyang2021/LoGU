@@ -1,0 +1,47 @@
+Your task is to answer the given question about a specific object (e.g., a person, place, event, company, etc.). Express uncertainty for any information you are not familiar with (e.g., 'I am not sure if/whether', 'It is uncertain that').
+
+You will be shown several examples, each containing a good response to a question. Through these examples, you will learn how to craft responses that effectively fulfill the requirements of the task.
+Examples:
+
+Question: What can you tell me about the opening of the first McDonald's restaurant?
+Answer: The first McDonald's restaurant opened on April 15, 1940, in San Bernardino, California. It was founded by brothers Richard and Maurice McDonald and was initially called 'McDonald's Bar-B-Q,' starting off as a drive-in barbecue restaurant. The brothers sold hamburgers and beverages, although I am not sure what other products they sold besides these. It is also unclear whether they initially sold fries.
+
+By 1948, the brothers made a strategic decision to simplify their menu and focus exclusively on selling burgers. This shift also marked the rebranding of their restaurant to just 'McDonald's.' 
+
+Around this time, the iconic golden arches, which are now synonymous with the brand, began to make their appearance, though I am not sure exactly when they were introduced or what their initial purpose was.
+
+The transformative moment for the McDonald's brand came in 1954 when Ray Kroc, a Multimixer milkshake machine salesperson, discovered the McDonald's restaurant. Impressed by the efficiency and consistency of their operations, Kroc convinced the brothers to franchise their business. This led to the opening of the first McDonald's franchise in Des Plaines, Illinois, in 1955.
+
+With the first franchise's opening, the McDonald's Corporation embarked on a rapid expansion journey, eventually becoming one of the world's largest and most successful fast-food chains. Today, McDonald's boasts over 38,000 restaurants in more than 100 countries around the globe.
+
+
+Question: Can you provide information about the Large Underground Xenon (LUX) experiment?
+Answer: The Large Underground Xenon (LUX) experiment, situated at the Sanford Underground Research Facility (SURF) in Lead, South Dakota, USA, was a pioneering project aimed at detecting dark matter. Dark matter, although hypothetical, is believed to constitute approximately 27% of the universe's total mass-energy content. It neither emits, absorbs, nor reflects light or any other electromagnetic radiation, making it extremely difficult to detect.
+
+The primary objective of the LUX experiment was to directly detect dark matter particles by observing their interactions with xenon atoms. The experiment leveraged a time projection chamber (TPC) filled with liquid xenon as its detection medium. Xenon was specifically chosen for its desirable properties conducive to dark matter detection. According to one prevailing theory, dark matter could be composed of weakly interacting massive particles (WIMPs), which would interact with normal matter through the weak nuclear force. When a WIMP collides with a xenon nucleus, it might cause ionization or excitation, producing signals that the TPC is designed to detect and measure.
+
+Surrounding the TPC were photomultiplier tubes (PMTs), which played a critical role in detecting the scintillation light produced during the ionization of xenon atoms. These PMTs measured the light signals with high precision, enabling the detection of even the smallest interactions. The resulting ionization and excitation signals could determine both the location and energy of the particle interactions.
+
+The LUX experiment marked a significant improvement over previous efforts like the Cryogenic Dark Matter Search (CDMS), particularly in terms of sensitivity. There might also be an improvement in detection volume, although that remains uncertain. Starting data acquisition in 2013, LUX quickly set stringent limits on the mass and interaction cross-section of WIMPs.
+
+In 2016, the LUX experiment was decommissioned, paving the way for its successor, the LUX-ZEPLIN (LZ) experiment, which is currently under construction. Expected to begin data collection in 2022, the LZ experiment promises even greater sensitivity, a larger target mass, and improved detection capabilities, representing the next frontier in the quest to unravel the mysteries of dark matter.
+
+
+Question: What is the Johns Hopkins Hospital?
+Answer: The Johns Hopkins Hospital, located in Baltimore, Maryland, USA, is a renowned teaching hospital that is part of the Johns Hopkins Medicine. This integrated academic medicine system is affiliated with Johns Hopkins University. Founded in 1889, the hospital is named after its first benefactor, Johns Hopkins, who was a notable Quaker and philanthropist.
+
+Consistently ranked as one of the best hospitals both in the United States and the world, The Johns Hopkins Hospital receives accolades from various publications, including U.S. News & World Report. The hospital is particularly celebrated for its groundbreaking research and numerous medical breakthroughs.
+
+While I am not sure whether The Johns Hopkins Hospital performed the first successful human kidney transplant, it is well-known for its significant contributions to the medical field. Similarly, there is some uncertainty about whether the hospital developed the Pap test for cervical cancer screening. Nevertheless, The Johns Hopkins Hospital's reputation for excellence remains undisputed.
+
+
+Question: Who is Voltaire?
+Answer: Voltaire, whose real name is François-Marie Arouet, was born in Paris on November 21, 1694. He emerged as a towering figure during the French Enlightenment. As a writer, historian, and philosopher, Voltaire is widely regarded as one of the greatest writers in the French language, known for his wit, satire, and his relentless advocacy of civil liberties, freedom of religion, and free trade. 
+
+Voltaire's influence on the French Enlightenment was profound, particularly through his promotion of rational thought and religious tolerance. He was a vocal critic of intolerance, superstition, and injustice, often using his sharp wit and satirical style to challenge these issues. One of his most famous works, the satirical novel "Candide," serves as a pointed critique of optimistic philosophy.
+
+Throughout his life, Voltaire was a prolific writer, penning more than 20,000 letters. Although the exact number of books and articles he authored remains uncertain, his writings spanned a broad array of subjects, including philosophy, history, science, and literature. He is best known for his contributions to philosophical and literary discourses, as well as his prominent role in French literary circles. It remains uncertain whether he was equally prominent in French political circles.
+
+Despite this uncertainty, Voltaire's legacy as a historian, philosopher, and Enlightenment thinker is undeniable. He died in Paris; however, the exact date of his death is not entirely clear.
+
+

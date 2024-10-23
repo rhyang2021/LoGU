@@ -1,0 +1,61 @@
+Your task is to write a biography for a specific entity. You should express uncertainty for any information you are not familiar with (e.g., 'I am not sure if/whether', 'It is uncertain that').
+
+You will be shown several examples, each containing a good response to a question. Through these examples, you will learn how to craft responses that effectively fulfill the requirements of the task.
+Examples:
+
+Question: Tell me a bio of Suthida.
+Answer: Suthida Vajiralprabha is the current queen consort of Thailand, having ascended to this position after she married King Maha Vajiralongkorn on May 1, 2019. Her marriage to the king came as a surprise to many. Despite not knowing exactly when or where Suthida Vajiralprabha was born, it is known that she was born into a middle-class family and rose through the ranks in the Royal Thai Police. During her time with the police, she was known for her dedication and hard work.
+
+Upon her marriage to King Maha Vajiralongkorn, Suthida Vajiralprabha was given the title of Queen Consort and has since taken on various royal duties. She has been seen attending official events with the king and has also been involved in charitable work. Suthida Vajiralprabha is known for her simple and down-to-earth personality, which has won the hearts of many Thais. Her humility and dedication to serving the people have further endeared her to the public. Suthida Vajiralprabha is also fluent in Thai.
+
+I am not certain whether Suthida Vajiralprabha is a Thai princess or what her specific royal title is beyond being Queen Consort. Nonetheless, her influence and positive impact on the Thai public are undeniable.
+
+
+Question: Tell me a bio of Miguel Ángel Félix Gallardo.
+Answer: Miguel Ángel Félix Gallardo rose to infamy as the founder and leader of the Guadalajara Cartel, one of the most powerful drug trafficking organizations in Mexico during the 1980s. It is not certain if this cartel was also one of the most influential, but its reach and control during the 1980s were undeniable. Gallardo, whose birth date and birthplace are unclear, began his criminal career in the late 1960s, although the exact beginnings of his activities remain uncertain.
+
+By the late 1970s, Félix Gallardo had become a key figure within the Guadalajara Cartel, overseeing its operations not only in Guadalajara but also across other parts of Jalisco state. Initially focused on smuggling marijuana from Mexico to the United States, the cartel expanded significantly in the early 1980s under Gallardo's leadership. He formed strategic alliances with other major drug trafficking organizations, including the Tijuana Cartel and the Juárez Cartel, and established a broad distribution network in the United States with major hubs in Chicago, New York, and Los Angeles.
+
+In 1985, Félix Gallardo orchestrated the kidnapping and murder of DEA agent Enrique 'Kiki' Camarena, who had been investigating the cartel's activities in Mexico. This event shocked the world and precipitated a major crackdown on drug trafficking in Mexico. Following Camarena's death, Gallardo went into hiding, but he continued to oversee the cartel's operations from the shadows until his arrest in 1989.
+
+Today, Félix Gallardo remains a controversial figure in Mexico. He played a significant role in the history of drug trafficking both within and beyond Mexico's borders. While some view him as a ruthless drug lord who brought untold suffering to countless lives, his exact monikers such as 'El Padrino de Pachenco' or 'The Godfather of Pachenco' remain uncertain. His legacy, marred by violence and criminal ingenuity, continues to affect the discourse on drug trafficking and law enforcement in the region.
+
+
+Question: Tell me a bio of Iggy Azalea.
+Answer: Iggy Azalea, born Amethyst Amelia Kelly, is an Australian rapper, singer, and songwriter. She was born on June 7, 1990, in Sydney, New South Wales, Australia, and grew up in the small town of Mullumbimby. From an early age, Iggy showed a keen interest in hip hop music and began rapping at the age of 14.
+
+At 16, Iggy Azalea moved to the United States to pursue a career in music. She gained significant attention in 2011 after releasing the mixtape "Ignorant Art." Although I'm not sure if this mixtape featured the popular single "Pu$$y," it certainly helped to elevate her profile. The following year, in 2012, she signed a record deal with Grand Hustle Records, the label of rapper T.I.
+
+Iggy Azalea's debut album, "The New Classic," was released in 2014 and included the hit singles "Fancy" and "Black Widow." "Fancy," featuring Charli XCX, became a massive success, reaching number one on the Billboard Hot 100 chart and staying there for seven consecutive weeks. It also topped the charts in several other countries. "Black Widow," a collaboration with Rita Ora, further cemented her place in the music industry. "The New Classic" debuted at number three on the Billboard 200 chart, and although I'm not sure if it was certified triple platinum by the RIAA, its success was undeniable.
+
+Throughout her career, Iggy Azalea has released several other singles and collaborations, such as "Team," "Beg for It," and "Mo Bounce." She was also featured on Ariana Grande's song "Problem" and Rita Ora's "Black Widow."
+
+Iggy Azalea's talent has been recognized with numerous award nominations. She has been nominated for four Grammy Awards, though I'm not sure about the exact number of American Music Awards nominations. She has won an MTV Video Music Award and a Billboard Music Award.
+
+Known for her unique style, controversial lyrics, and outspoken personality, Iggy Azalea has also been involved in high-profile feuds with other rappers and has faced criticism for cultural appropriation. Nevertheless, she remains a popular and influential figure in hip hop music.
+
+
+Question: Tell me a bio of Jan Zamoyski.
+Answer: Jan Zamoyski, whose birth date and place remain unknown, was a prominent figure in the Polish-Lithuanian Commonwealth. Zamosc, a city in southeastern Poland, was a significant part of the Commonwealth. Although it is uncertain whether Jan Zamoyski's parents were Jerzy Zamoyski and Anna Tyszkiewicz, and unclear if either of them belonged to an influential noble family, Jan himself became a notable and influential individual.
+
+Jan Zamoyski received an excellent education, though the location where he studied law is not certain. He quickly distinguished himself not only as a capable and effective military leader, participating in conflicts such as the Smolensk War against Russia, but also as an active statesman. He served as the Grand Hetman of the Crown, the highest military rank in the Polish-Lithuanian army, and was a member of the Sejm, the Polish parliament.
+
+Jan Zamoyski was renowned for his efforts to modernize the Polish military and strengthen the Commonwealth's borders. He was also a generous patron of the arts and sciences, supporting figures like poet Samuel Twardowski and painter Jan Matejko. Despite his various achievements, Zamoyski's life was not without controversy. He was involved in several political intrigues and power struggles but remained a powerful and influential figure in Polish politics until his death.
+
+Throughout his career, Jan Zamoyski played a key role in defending the Commonwealth against external threats and promoting learning and culture within its borders. He is remembered as one of the greatest magnates and statesmen in the history of the Polish-Lithuanian Commonwealth. Jan Zamoyski's legacy continues to be celebrated in Poland, marking him as a pivotal figure who significantly contributed to the nation's history.
+
+
+Question: Tell me a bio of Radhika Apte.
+Answer: Radhika Apte is a versatile Indian actress known for her remarkable ability to portray complex characters with ease. She has garnered critical acclaim and numerous awards for her performances across various mediums, including Indian and international films, television shows, and web series.
+
+Radhika was born in Vellore, Tamil Nadu, India, but grew up in Pune, Maharashtra. She began her acting career in 2005 with a Marathi play, although I do not know the name of the play. I am not sure if her film debut was in a Marathi film or if the film was named 'Vasantrao.'
+
+Radhika Apte has appeared in a number of notable films. In 2008, the film "Rock On!!!" was released, and in 2010, "Badmaash Company" followed. She gained further recognition with her roles in "Phobia," "Padman" (released in 2018), and "Andhadhun," which was also released in 2018.
+
+Apart from mainstream Bollywood cinema, Radhika has worked in various regional film industries. She has acted in Tamil, Telugu, Malayalam, and Bengali films, showcasing her versatility and broad appeal.
+
+Though I am not sure if Radhika Apte has ventured into film production or where she completed her education, her achievements in acting are well-documented. Her exceptional talent has been recognized with several awards, solidifying her status as a celebrated actress.
+
+Radhika Apte's contribution to cinema is commendable, and her journey continues to inspire many.
+
+
