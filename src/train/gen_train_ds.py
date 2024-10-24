@@ -61,27 +61,19 @@ if __name__ == "__main__":
     
     parser = argparse.ArgumentParser(description="generate closed set fasts for each entity in bio dataset.")
     parser.add_argument("--model_id", type=str, default="mistral-7b", help="Model ID for generating")
-    parser.add_argument("--input_dir", type=str, default="/apdcephfs_qy3/share_733425/timhuang/rhyang/long_uncertainty_express/sft_data", help="Model ID for generating")
-    parser.add_argument("--output_dir", type=str, default="/apdcephfs_qy3/share_733425/timhuang/rhyang/long_uncertainty_express/sft_data", help="Model ID for generating")
+    parser.add_argument("--input_dir", type=str, default="../long_uncertainty_express/sft_data", help="Model ID for generating")
+    parser.add_argument("--output_dir", type=str, default="../long_uncertainty_express/sft_data", help="Model ID for generating")
     args = parser.parse_args()
     
     if 'llama' in args.model_id:
-        model_name = "/apdcephfs_qy3/share_733425/timhuang/huggingface_models/llama3-8b-instruct"
+        model_name = "../llama3-8b-instruct"
     elif 'mistral' in args.model_id:
-        model_name = "/apdcephfs_qy3/share_733425/timhuang/cindychung/Mistral-7B-Instruct-v0.2"
+        model_name = "../Mistral-7B-Instruct-v0.2"
              
     tokenizer=AutoTokenizer.from_pretrained(model_name)
     df = pd.read_json(f'{args.input_dir}/uncertain_sft_{args.model_id}.json')
     print(len(df))
     df_final = preprocess_train_data(df, tokenizer, max_token=14336)
-    
-    # data = []
-    # for dataset in ['bio', 'wild', 'longfact']:
-        # df=pd.read_json(f'{args.input_dir}/{dataset}/{args.model_id}_train_sft.json')
-        # print(len(df))
-        # df_ids = preprocess_train_data(df, tokenizer, max_token=14336)
-        # df_ids['dataset'] = dataset
-        # data.append(df_ids)
-    # df_final = pd.concat(data)
+
     
     df_final.to_pickle(f'{args.output_dir}/train_ft_{args.model_id}.pkl')

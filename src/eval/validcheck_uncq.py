@@ -4,7 +4,7 @@ import os
 import pdb
 import re
 
-sys.path.append(".../long_uncertainty_express")
+sys.path.append("../long_uncertainty_express")
 from llm_base import openai_Agent
 from prompt_base import INSTRUCTION_VALID_CHECK
 from utils import read_jsonl, parse_json_text_with_remaining

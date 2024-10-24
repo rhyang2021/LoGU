@@ -20,7 +20,7 @@ abstain_indicators = ["don't have real-time access",
                     "I couldn't find any reliable information",
                     "not specified in the available historical records"]
 
-input_path = '.../long_uncertainty_express/results'
+input_path = '../long_uncertainty_express/results'
 datasets = ['bio','wild', 'longfact']
 models = ['mistral-7b', 'llama3-8b']
 # methods = ['unc-zero','unc-few', 'pair-few', 'sft-cutoff-2','dpo-cutoff-2', 'dpo-cutoff-2-ds20000-epoch3','dpo-cutoff-2-ds200000-epoch1','sft-filter',"sft-filter-4", "sft-filter-6", 'sft',]

@@ -8,7 +8,7 @@ from tenacity import (
     wait_random_exponential,
 )
 import sys
-sys.path.append(".../long_uncertainty_express")
+sys.path.append("../long_uncertainty_express")
 from prompt_base import BIO_GEN_TEMPLATE, WILD_GEN_TEMPLATE, BIO_BIAS_GEN_TEMPLATE, INSTRUCT_REFINE_UNCERTAIN
 from utils import read_jsonl
 

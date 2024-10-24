@@ -78,8 +78,8 @@ if __name__ == "__main__":
     parser.add_argument("--dataset", type=str, default="wild", help="dataset")
     parser.add_argument("--method", type=str, default="sft")
     parser.add_argument("--threshold", type=float, default=4)
-    parser.add_argument("--input_dir", type=str, default=".../long_uncertainty_express/sft_data/0904")
-    parser.add_argument("--output_dir", type=str, default=".../long_uncertainty_express/sft_data")
+    parser.add_argument("--input_dir", type=str, default="../long_uncertainty_express/sft_data/0904")
+    parser.add_argument("--output_dir", type=str, default="../long_uncertainty_express/sft_data")
     args = parser.parse_args()
 
     file_path = f"{args.input_dir}/{args.dataset}/{args.model_id}_sft_atomic_facts_veracity.jsonl"
