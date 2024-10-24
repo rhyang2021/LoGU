@@ -32,7 +32,7 @@ While Large Language Models (LLMs) demonstrate impressive capabilities, they sti
 In this work, we introduce the task of Long-form Generation with Uncertainty (LoGU). We identify two key challenges: **Uncertainty Suppression**, where models hesitate to express uncertainty, and **Uncertainty Misalignment**, where models convey uncertainty inaccurately. To tackle these challenges, we propose a refinement-based data collection framework and a two-stage training pipeline. Our framework adopts a divide-and-conquer strategy, refining uncertainty based on atomic claims. The collected data are then used in training through supervised fine-tuning (SFT) and direct preference optimization (DPO) to enhance uncertainty expression. Extensive experiments on three long-form instruction following datasets show that our method significantly improves accuracy, reduces hallucinations, and maintains the comprehensiveness of responses.
 
 <div align="center">
-<img width="800" alt="image" src="./figures/main_png.png">
+<img width="900" alt="image" src="./figures/main_png.png">
 </div>
 
 ## How to Install
@@ -54,11 +54,11 @@ Try the following command to test our method on Bios, LongFact, WildHallu:
 cd ./scripts
 bash generate_vllm_responses.sh
 ```
-- calculate Factual Accuracy(FA)
+- Calculate Factual Accuracy(FA)
 ```sh
 bash eval_pipeline.sh
 ```
-- calculate Uncertain Precision(UC)
+- Calculate Uncertain Precision(UC)
 ```sh
 bash generate_unc_answers.sh
 bash factcheck_unc_answers.sh
