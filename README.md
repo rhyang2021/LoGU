@@ -54,4 +54,11 @@ cd ./scripts
 sh eval_pipeline.sh
 ```
 
+We also provide some uncertainty expression models on the huggingface model hub for fast trail:
+
+| Model | Link |
+| :------- | :---------: |
+| **rhyang2021/uncertain_llama3_8b** | [HuggingFace](https://huggingface.co/rhyang2021/uncertain_llama3_8b)|
+| **rhyang2021/uncertain_mistral_7b** | [HuggingFace](https://huggingface.co/rhyang2021/uncertain_mistral_7b)|
+
 If you have any questions, please feel free to [email](mailto:rhyang17@fudan.edu.cn) me or drop me an issue.
