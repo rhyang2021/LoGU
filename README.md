@@ -28,6 +28,7 @@
 <img width="400" alt="image" src="./figures/head_png.png" style="display: block; margin: 0 auto;">
 </div> <!-- 关闭外层的居中div -->
 
+
 ## Introduction
 
 While Large Language Models (LLMs) demonstrate impressive capabilities, they still struggle with generating factually incorrect content (i.e., hallucinations). A promising approach to mitigate this issue is enabling models to express uncertainty when unsure. Previous research on uncertainty modeling has primarily focused on short-form QA, but real-world applications often require much longer responses. In this work, we introduce the task of Long-form Generation with Uncertainty (LoGU). We identify two key challenges: **Uncertainty Suppression**, where models hesitate to express uncertainty, and **Uncertainty Misalignment**, where models convey uncertainty inaccurately. 
@@ -35,7 +36,7 @@ While Large Language Models (LLMs) demonstrate impressive capabilities, they sti
 To tackle these challenges, we propose a refinement-based data collection framework and a two-stage training pipeline. Our framework adopts a divide-and-conquer strategy, refining uncertainty based on atomic claims. The collected data are then used in training through supervised fine-tuning (SFT) and direct preference optimization (DPO) to enhance uncertainty expression. Extensive experiments on three long-form instruction following datasets show that our method significantly improves accuracy, reduces hallucinations, and maintains the comprehensiveness of responses.
 
 <div align="center">
-<img width="850" alt="image" src="./figures/main_png.png">
+<img width="820" alt="image" src="./figures/main_png.png">
 </div>
 
 ## How to Install
@@ -66,6 +67,10 @@ bash eval_pipeline.sh
 bash generate_unc_answers.sh
 bash factcheck_unc_answers.sh
 ```
+## Training Data
+
+Coming Soon!
+
 
 We also provide some uncertainty expression models on the huggingface model hub for fast trail:
 
