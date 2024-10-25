@@ -2,6 +2,7 @@
 
 # LoGU: Long-form Generation with Uncertainty Expressions
 
+<!--
 <div>
   <a href='https://scholar.google.com/citations?user=asTSVwQAAAAJ&hl=en' target='_blank'><b>Ruihan Yang</b></a><sup>1</sup>&emsp;
   <a href='https://caiqizh.github.io/' target='_blank'><b>Caiqi Zhang</b></a><sup>2</sup>&emsp;
@@ -12,6 +13,7 @@
 <div><sup>3</sup>Tencent AI Lab</div>
 
 <div>
+-->
 <h4>
 
 ![](https://img.shields.io/badge/PRs-welcome-brightgreen) 
