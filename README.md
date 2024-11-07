@@ -25,7 +25,7 @@
 </div>
 
 
-<img width="400" alt="image" src="./figures/head_png.png" style="display: block; margin: 0 auto;">
+<img width="405" alt="image" src="./figures/head_png.png" style="display: block; margin: 0 auto;">
 </div> <!-- 关闭外层的居中div -->
 
 
@@ -36,7 +36,7 @@ While Large Language Models (LLMs) demonstrate impressive capabilities, they sti
 To tackle these challenges, we propose a refinement-based data collection framework and a two-stage training pipeline. Our framework adopts a divide-and-conquer strategy, refining uncertainty based on atomic claims. The collected data are then used in training through supervised fine-tuning (SFT) and direct preference optimization (DPO) to enhance uncertainty expression. Extensive experiments on three long-form instruction following datasets show that our method significantly improves accuracy, reduces hallucinations, and maintains the comprehensiveness of responses.
 
 <div align="center">
-<img width="820" alt="image" src="./figures/main_png.png">
+<img width="825" alt="image" src="./figures/main_png.png">
 </div>
 
 ## How to Install
