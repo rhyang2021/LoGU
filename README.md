@@ -69,7 +69,7 @@ bash factcheck_unc_answers.sh
 ```
 ## Training Data
 
-Training data for LoGU-SFT and LoGU-DPO in the paper can be found [here](https://drive.google.com/drive/folders/1pRocQI0Jv479G4vNMtQn1JOq8Shf2B6U?usp=sharing).
+Training data for LoGU-SFT and LoGU-DPO in the paper can be found [here](https://drive.google.com/drive/folders/1vqB6DJ1gxbBYcC_ysVBD6rQBXN8JdGYY?usp=sharing).
 
 ## Models
 
