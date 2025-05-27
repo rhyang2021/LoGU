@@ -69,7 +69,7 @@ bash factcheck_unc_answers.sh
 ```
 ## Training Data
 
-Coming Soon!
+Training data for LoGU-SFT and LoGU-DPO in the paper can be found [here](https://drive.google.com/drive/folders/1pRocQI0Jv479G4vNMtQn1JOq8Shf2B6U?usp=sharing).
 
 
 We also provide some uncertainty expression models on the huggingface model hub for fast trail:
